@@ -1,0 +1,8 @@
+tf,sequence_star,resi,pdbid,pairid,isHbond,isVdw,param,value
+GR,CAGA*ACATGATGTTCTCA,3,1r4r,1r4r_AT_C_DA_5_D_DT_16,False,False,shift,2.031
+RelA,CCTGGGGAATTTCCG*GGA,23,5u01,5u01_GC_E_DG_224_F_DC_203,True,True,shift,1.635
+Max-Max,TAGATCA*CGTGAATG,9,1an2,1an2_AT_B_DA_10_B_DT_13,False,True,rise,4.304
+TBP,ACTATAAAAA*GTTC,8,1qne,1qne_AT_C_DA_209_D_DT_220,False,True,rise,5.060
+TBP,ACTATA*AAAAGTTC,5,1qne,1qne_AT_C_DA_206_D_DT_223,True,True,roll,19.666
+TBP,ACTATAAAAA*GTTC,8,1qne,1qne_AT_C_DA_209_D_DT_220,False,True,roll,42.851
+TBP,ACTATA*AAAAGTTC,5,1qne,1qne_AT_C_DA_206_D_DT_223,True,True,twist,12.441

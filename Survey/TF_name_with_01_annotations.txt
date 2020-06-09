@@ -1,0 +1,1662 @@
+pdbid	isTF	uniprot/title
+4xqj	0	Accessory gene regulator A
+4xqn	0	Accessory gene regulator A
+4xyq	0	Accessory gene regulator A
+3bs1	0	Accessory gene regulator protein A
+3gx4	0	Alkyltransferase-like protein 1
+4enm	0	Alkyltransferase-like protein 1
+4hdu	0	Alkyltransferase-like protein 1
+4hdv	0	Alkyltransferase-like protein 1
+4z58	1	Antitoxin HipB
+4z59	1	Antitoxin HipB
+4z5c	1	Antitoxin HipB
+4z5d	1	Antitoxin HipB
+4z5h	1	Antitoxin HipB
+3o9x	0	Antitoxin MqsA
+3spd	0	Aprataxin-like protein
+4egy	1	Arabinose metabolism transcriptional repressor
+4egz	1	Arabinose metabolism transcriptional repressor
+4h0e	1	Arabinose metabolism transcriptional repressor
+5jgh	0	ARS-binding factor 2, mitochondrial
+5jh0	0	ARS-binding factor 2, mitochondrial
+4h10	1	Aryl hydrocarbon receptor nuclear translocator-like protein 1
+2wwy	0	ATP-dependent DNA helicase Q1
+3u4q	0	ATP-dependent helicase/nuclease subunit A
+4ldx	1	Auxin response factor 1
+2bzf	0	Barrier-to-autointegration factor
+2rbf	0	Bifunctional protein PutA
+1u8b	0	Bifunctional transcriptional activator/DNA repair enzyme Ada
+1xbr	1	Brachyury protein
+1rzr	1	Catabolite control protein A
+3oqm	1	Catabolite control protein A
+3oqo	1	Catabolite control protein A
+1nwq	1	CCAAT/enhancer-binding protein alpha
+1gtw	1	CCAAT/enhancer-binding protein beta
+1gu4	1	CCAAT/enhancer-binding protein beta
+1gu5	1	CCAAT/enhancer-binding protein beta
+1h88	1	CCAAT/enhancer-binding protein beta
+1h89	1	CCAAT/enhancer-binding protein beta
+1h8a	1	CCAAT/enhancer-binding protein beta
+1hjb	1	CCAAT/enhancer-binding protein beta
+1io4	1	CCAAT/enhancer-binding protein beta
+2e42	1	CCAAT/enhancer-binding protein beta
+2e43	1	CCAAT/enhancer-binding protein beta
+1tsr	1	Cellular tumor antigen p53
+1tup	1	Cellular tumor antigen p53
+2ac0	1	Cellular tumor antigen p53
+2ady	1	Cellular tumor antigen p53
+2ahi	1	Cellular tumor antigen p53
+2ata	1	Cellular tumor antigen p53
+2geq	1	Cellular tumor antigen p53
+3d0a	1	Cellular tumor antigen p53
+3kmd	1	Cellular tumor antigen p53
+3kz8	1	Cellular tumor antigen p53
+3q05	1	Cellular tumor antigen p53
+3ts8	1	Cellular tumor antigen p53
+4hje	1	Cellular tumor antigen p53
+4ibu	1	Cellular tumor antigen p53
+4ibv	1	Cellular tumor antigen p53
+4ibw	1	Cellular tumor antigen p53
+4mzr	1	Cellular tumor antigen p53
+5lgy	1	Cellular tumor antigen p53
+1odh	1	Chorion-specific transcription factor GCMa
+3kxt	0	Chromatin protein Cren7
+3lwh	0	Chromatin protein Cren7
+3lwi	0	Chromatin protein Cren7
+4r55	0	Chromatin protein Cren7
+4r56	0	Chromatin protein Cren7
+5wvw	0	Chromatin protein Cren7
+5wvy	0	Chromatin protein Cren7
+5wvz	0	Chromatin protein Cren7
+5wwc	0	Chromatin protein Cren7
+3ted	0	Chromo domain-containing protein 1
+5j70	0	Chromo domain-containing protein 1
+1j1v	0	Chromosomal replication initiator protein DnaA
+3pvp	0	Chromosomal replication initiator protein DnaA
+3pvv	0	Chromosomal replication initiator protein DnaA
+5i44	0	Chromosome-anchoring protein RacA
+1pt3	0	Colicin-E7
+1zns	0	Colicin-E7
+2ivh	0	Colicin-E7
+3fbd	0	Colicin-E7
+1v14	0	Colicin-E9
+1v15	0	Colicin-E9
+5h9f	0	CRISPR system Cascade subunit CasA
+5dlj	0	CRISPR-associated endonuclease Cas1
+5dqz	0	CRISPR-associated endonuclease Cas1
+5ds5	0	CRISPR-associated endonuclease Cas1
+5vvk	0	CRISPR-associated endonuclease Cas1
+5b43	0	CRISPR-associated endonuclease Cas12a
+5mga	0	CRISPR-associated endonuclease Cas12a
+5b2o	0	CRISPR-associated endonuclease Cas9
+5b2p	0	CRISPR-associated endonuclease Cas9
+5b2q	0	CRISPR-associated endonuclease Cas9
+5czz	0	CRISPR-associated endonuclease Cas9
+4p0p	0	Crossover junction endonuclease MUS81
+4p0q	0	Crossover junction endonuclease MUS81
+3qmb	1	CXXC-type zinc finger protein 1
+3qmc	1	CXXC-type zinc finger protein 1
+3qmd	1	CXXC-type zinc finger protein 1
+3qmg	1	CXXC-type zinc finger protein 1
+3qmh	1	CXXC-type zinc finger protein 1
+3qmi	1	CXXC-type zinc finger protein 1
+1dh3	1	Cyclic AMP-responsive element-binding protein 1
+4k96	0	Cyclic GMP-AMP synthase
+4ley	0	Cyclic GMP-AMP synthase
+4o6a	0	Cyclic GMP-AMP synthase
+1ddn	1	Diphtheria toxin repressor
+1f5t	1	Diphtheria toxin repressor
+3ei1	0	DNA damage-binding protein 1
+3ei2	0	DNA damage-binding protein 1
+4e54	0	DNA damage-binding protein 1
+3dsc	0	DNA double-strand break repair protein Mre11
+3dsd	0	DNA double-strand break repair protein Mre11
+2ex5	0	DNA endonuclease I-CeuI
+1g9y	0	DNA endonuclease I-CreI
+1g9z	0	DNA endonuclease I-CreI
+1n3e	0	DNA endonuclease I-CreI
+1n3f	0	DNA endonuclease I-CreI
+1t9i	0	DNA endonuclease I-CreI
+1t9j	0	DNA endonuclease I-CreI
+1u0c	0	DNA endonuclease I-CreI
+1u0d	0	DNA endonuclease I-CreI
+2i3p	0	DNA endonuclease I-CreI
+2i3q	0	DNA endonuclease I-CreI
+2vbj	0	DNA endonuclease I-CreI
+2vbl	0	DNA endonuclease I-CreI
+2vbn	0	DNA endonuclease I-CreI
+2vbo	0	DNA endonuclease I-CreI
+4aab	0	DNA endonuclease I-CreI
+4aae	0	DNA endonuclease I-CreI
+4aaf	0	DNA endonuclease I-CreI
+4aag	0	DNA endonuclease I-CreI
+4aqu	0	DNA endonuclease I-CreI
+4aqx	0	DNA endonuclease I-CreI
+5a72	0	DNA endonuclease I-CvuI
+5a74	0	DNA endonuclease I-CvuI
+5a77	0	DNA endonuclease I-CvuI
+5a78	0	DNA endonuclease I-CvuI
+5cdr	0	DNA gyrase subunit A
+2is1	0	DNA helicase II
+2is2	0	DNA helicase II
+2aoq	0	DNA mismatch repair protein MutH
+2aor	0	DNA mismatch repair protein MutH
+1ewq	0	DNA mismatch repair protein MutS
+5d49	0	DNA nucleotidylexotransferase
+5d4b	0	DNA nucleotidylexotransferase
+3btx	0	DNA oxidative demethylase ALKBH2
+3bty	0	DNA oxidative demethylase ALKBH2
+3btz	0	DNA oxidative demethylase ALKBH2
+3h8x	0	DNA oxidative demethylase ALKBH2
+3rzg	0	DNA oxidative demethylase ALKBH2
+3rzh	0	DNA oxidative demethylase ALKBH2
+3rzl	0	DNA oxidative demethylase ALKBH2
+4mg2	0	DNA oxidative demethylase ALKBH2
+4mgt	0	DNA oxidative demethylase ALKBH2
+2pzs	0	DNA polymerase
+2vwj	0	DNA polymerase
+2xhb	0	DNA polymerase
+4k8z	0	DNA polymerase
+4fm2	0	DNA polymerase 1
+1bpx	0	DNA polymerase beta
+1bpz	0	DNA polymerase beta
+1tv9	0	DNA polymerase beta
+1tva	0	DNA polymerase beta
+1zjm	0	DNA polymerase beta
+1zqf	0	DNA polymerase beta
+1zqi	0	DNA polymerase beta
+1zqn	0	DNA polymerase beta
+1zqp	0	DNA polymerase beta
+2p66	0	DNA polymerase beta
+3isb	0	DNA polymerase beta
+3isc	0	DNA polymerase beta
+3rje	0	DNA polymerase beta
+3rjg	0	DNA polymerase beta
+3rjj	0	DNA polymerase beta
+3v72	0	DNA polymerase beta
+3v7j	0	DNA polymerase beta
+3v7k	0	DNA polymerase beta
+4gxi	0	DNA polymerase beta
+4klg	0	DNA polymerase beta
+4klh	0	DNA polymerase beta
+4kli	0	DNA polymerase beta
+4klj	0	DNA polymerase beta
+4kll	0	DNA polymerase beta
+4klm	0	DNA polymerase beta
+4klo	0	DNA polymerase beta
+4klt	0	DNA polymerase beta
+4klu	0	DNA polymerase beta
+4m2y	0	DNA polymerase beta
+4m9g	0	DNA polymerase beta
+4mf2	0	DNA polymerase beta
+4mf8	0	DNA polymerase beta
+4mfa	0	DNA polymerase beta
+4nln	0	DNA polymerase beta
+4nlz	0	DNA polymerase beta
+4nm1	0	DNA polymerase beta
+4nm2	0	DNA polymerase beta
+4o5c	0	DNA polymerase beta
+4pgy	0	DNA polymerase beta
+4ph5	0	DNA polymerase beta
+4ppx	0	DNA polymerase beta
+4r63	0	DNA polymerase beta
+4r64	0	DNA polymerase beta
+4rq1	0	DNA polymerase beta
+4rq2	0	DNA polymerase beta
+4rq6	0	DNA polymerase beta
+4rq7	0	DNA polymerase beta
+4rq8	0	DNA polymerase beta
+4tup	0	DNA polymerase beta
+4uay	0	DNA polymerase beta
+4ub1	0	DNA polymerase beta
+4ub2	0	DNA polymerase beta
+4ub3	0	DNA polymerase beta
+4ymm	0	DNA polymerase beta
+5bom	0	DNA polymerase beta
+5db6	0	DNA polymerase beta
+5db7	0	DNA polymerase beta
+5db8	0	DNA polymerase beta
+5db9	0	DNA polymerase beta
+5dba	0	DNA polymerase beta
+5dbb	0	DNA polymerase beta
+5dbc	0	DNA polymerase beta
+5hhh	0	DNA polymerase beta
+5j0o	0	DNA polymerase beta
+5j0p	0	DNA polymerase beta
+5j0q	0	DNA polymerase beta
+5j0r	0	DNA polymerase beta
+5j0s	0	DNA polymerase beta
+5j0t	0	DNA polymerase beta
+5j0u	0	DNA polymerase beta
+5j0w	0	DNA polymerase beta
+5j0x	0	DNA polymerase beta
+5j0y	0	DNA polymerase beta
+2xgp	0	DNA polymerase eta
+2xgq	0	DNA polymerase eta
+3tq1	0	DNA polymerase eta
+4ed6	0	DNA polymerase eta
+4j9p	0	DNA polymerase eta
+4j9q	0	DNA polymerase eta
+4j9r	0	DNA polymerase eta
+4j9s	0	DNA polymerase eta
+2bdp	0	DNA polymerase I
+2xo7	0	DNA polymerase I
+3bdp	0	DNA polymerase I
+4b9m	0	DNA polymerase I
+4b9t	0	DNA polymerase I
+4b9u	0	DNA polymerase I
+4b9v	0	DNA polymerase I
+4bdp	0	DNA polymerase I
+4dsl	0	DNA polymerase I
+4f8r	0	DNA polymerase I
+4o0i	0	DNA polymerase I
+3sz2	0	DNA polymerase I, thermostable
+4c8l	0	DNA polymerase I, thermostable
+4c8m	0	DNA polymerase I, thermostable
+4c8o	0	DNA polymerase I, thermostable
+2fln	0	DNA polymerase iota
+2flp	0	DNA polymerase iota
+3h40	0	DNA polymerase iota
+2asj	0	DNA polymerase IV
+2asl	0	DNA polymerase IV
+2au0	0	DNA polymerase IV
+2bq3	0	DNA polymerase IV
+2w9b	0	DNA polymerase IV
+2xc9	0	DNA polymerase IV
+3bq0	0	DNA polymerase IV
+3bq2	0	DNA polymerase IV
+4fbu	0	DNA polymerase IV
+4hyk	0	DNA polymerase IV
+1rzt	0	DNA polymerase lambda
+1xsl	0	DNA polymerase lambda
+1xsp	0	DNA polymerase lambda
+2bcq	0	DNA polymerase lambda
+2bcr	0	DNA polymerase lambda
+2bcs	0	DNA polymerase lambda
+2gws	0	DNA polymerase lambda
+3c5f	0	DNA polymerase lambda
+3mda	0	DNA polymerase lambda
+3mgh	0	DNA polymerase lambda
+3uq0	0	DNA polymerase lambda
+3uq2	0	DNA polymerase lambda
+5ddm	0	DNA polymerase lambda
+5iio	0	DNA polymerase lambda
+5g32	0	DNA repair protein RAD14
+5g33	0	DNA repair protein RAD14
+5g34	0	DNA repair protein RAD14
+5lcl	0	DNA repair protein RAD14
+5lcm	0	DNA repair protein RAD14
+4q0w	0	DNA repair protein RAD2
+4q0z	0	DNA repair protein RAD2
+4q10	0	DNA repair protein RAD2
+2qsh	0	DNA repair protein RAD4
+2c5r	0	DNA replication protein 16.7
+1ecr	0	DNA replication terminus site-binding protein
+2ewj	0	DNA replication terminus site-binding protein
+2i05	0	DNA replication terminus site-binding protein
+2i06	0	DNA replication terminus site-binding protein
+1a31	0	DNA topoisomerase 1
+1a35	0	DNA topoisomerase 1
+1a36	0	DNA topoisomerase 1
+1ej9	0	DNA topoisomerase 1
+2h7f	0	DNA topoisomerase 1
+2h7g	0	DNA topoisomerase 1
+3igc	0	DNA topoisomerase 1
+2rgr	0	DNA topoisomerase 2
+4fm9	0	DNA topoisomerase 2-alpha
+4j3n	0	DNA topoisomerase 2-beta
+2ve9	0	DNA translocase FtsK
+1de8	0	DNA-(apurinic or apyrimidinic site) lyase
+1dew	0	DNA-(apurinic or apyrimidinic site) lyase
+4iem	0	DNA-(apurinic or apyrimidinic site) lyase
+5dff	0	DNA-(apurinic or apyrimidinic site) lyase
+5dfh	0	DNA-(apurinic or apyrimidinic site) lyase
+5dfi	0	DNA-(apurinic or apyrimidinic site) lyase
+5dfj	0	DNA-(apurinic or apyrimidinic site) lyase
+5dg0	0	DNA-(apurinic or apyrimidinic site) lyase
+1bnk	0	DNA-3-methyladenine glycosylase
+1ewn	0	DNA-3-methyladenine glycosylase
+1f4r	0	DNA-3-methyladenine glycosylase
+1f6o	0	DNA-3-methyladenine glycosylase
+3qi5	0	DNA-3-methyladenine glycosylase
+3s6i	0	DNA-3-methyladenine glycosylase 1
+1diz	0	DNA-3-methyladenine glycosylase 2
+3cvs	0	DNA-3-methyladenine glycosylase 2
+3cvt	0	DNA-3-methyladenine glycosylase 2
+3cw7	0	DNA-3-methyladenine glycosylase 2
+3cwa	0	DNA-3-methyladenine glycosylase 2
+3cws	0	DNA-3-methyladenine glycosylase 2
+3cwt	0	DNA-3-methyladenine glycosylase 2
+3cwu	0	DNA-3-methyladenine glycosylase 2
+3d4v	0	DNA-3-methyladenine glycosylase 2
+1azp	0	DNA-binding protein 7d
+1azq	0	DNA-binding protein 7d
+1bnz	0	DNA-binding protein 7d
+1ca5	0	DNA-binding protein 7d
+1wd0	0	DNA-binding protein 7d
+1wd1	0	DNA-binding protein 7d
+1wto	0	DNA-binding protein 7d
+1wtq	0	DNA-binding protein 7d
+1wtr	0	DNA-binding protein 7d
+1wtv	0	DNA-binding protein 7d
+1wtw	0	DNA-binding protein 7d
+1wtx	0	DNA-binding protein 7d
+1wvl	0	DNA-binding protein 7d
+1xyi	0	DNA-binding protein 7d
+3iv5	1	DNA-binding protein Fis
+3jr9	1	DNA-binding protein Fis
+3jrh	1	DNA-binding protein Fis
+5ds9	1	DNA-binding protein Fis
+5dtd	1	DNA-binding protein Fis
+5e3l	1	DNA-binding protein Fis
+5e3m	1	DNA-binding protein Fis
+5e3n	1	DNA-binding protein Fis
+5e3o	1	DNA-binding protein Fis
+1ign	1	DNA-binding protein RAP1
+3ukg	1	DNA-binding protein RAP1
+4gfb	1	DNA-binding protein RAP1
+5eyb	1	DNA-binding protein reb1
+2o49	1	DNA-binding protein SATB1
+2o4a	1	DNA-binding protein SATB1
+1sks	0	DNA-directed DNA polymerase
+1skw	0	DNA-directed DNA polymerase
+1sl1	0	DNA-directed DNA polymerase
+1x9m	0	DNA-directed DNA polymerase
+1x9s	0	DNA-directed DNA polymerase
+1x9w	0	DNA-directed DNA polymerase
+2ajq	0	DNA-directed DNA polymerase
+2dtu	0	DNA-directed DNA polymerase
+2p5g	0	DNA-directed DNA polymerase
+2p5o	0	DNA-directed DNA polymerase
+3l8b	0	DNA-directed DNA polymerase
+3rma	0	DNA-directed DNA polymerase
+3rmb	0	DNA-directed DNA polymerase
+3rmc	0	DNA-directed DNA polymerase
+3tab	0	DNA-directed DNA polymerase
+3tae	0	DNA-directed DNA polymerase
+3taf	0	DNA-directed DNA polymerase
+3tag	0	DNA-directed DNA polymerase
+2o5i	0	DNA-directed RNA polymerase subunit alpha
+4g7h	0	DNA-directed RNA polymerase subunit alpha
+4g7o	0	DNA-directed RNA polymerase subunit alpha
+4boc	0	DNA-directed RNA polymerase, mitochondrial
+1hcr	0	DNA-invertase hin
+2acj	0	Double-stranded RNA-specific adenosine deaminase
+1jfi	1	Dr1-associated corepressor
+4rkg	0	E3 ubiquitin-protein ligase msl-2
+2zkd	0	E3 ubiquitin-protein ligase UHRF1
+2zke	0	E3 ubiquitin-protein ligase UHRF1
+2zkf	0	E3 ubiquitin-protein ligase UHRF1
+2zo0	0	E3 ubiquitin-protein ligase UHRF1
+2zo1	0	E3 ubiquitin-protein ligase UHRF1
+3clz	0	E3 ubiquitin-protein ligase UHRF1
+3f8i	0	E3 ubiquitin-protein ligase UHRF1
+3f8j	0	E3 ubiquitin-protein ligase UHRF1
+4pw5	0	E3 ubiquitin-protein ligase UHRF2
+4pw7	0	E3 ubiquitin-protein ligase UHRF2
+1a1f	1	Early growth response protein 1
+1a1g	1	Early growth response protein 1
+1a1h	1	Early growth response protein 1
+1a1i	1	Early growth response protein 1
+1a1j	1	Early growth response protein 1
+1a1k	1	Early growth response protein 1
+1a1l	1	Early growth response protein 1
+1aay	1	Early growth response protein 1
+1jk1	1	Early growth response protein 1
+1jk2	1	Early growth response protein 1
+1p47	1	Early growth response protein 1
+4r2a	1	Early growth response protein 1
+4r2c	1	Early growth response protein 1
+4r2d	1	Early growth response protein 1
+1qum	0	Endonuclease 4
+2nqj	0	Endonuclease 4
+4k1g	0	Endonuclease 4
+1k3w	0	Endonuclease 8
+2ea0	0	Endonuclease 8
+2opf	0	Endonuclease 8
+5itr	0	Endonuclease 8-like 1
+5itt	0	Endonuclease 8-like 1
+5itu	0	Endonuclease 8-like 1
+5itx	0	Endonuclease 8-like 1
+5ity	0	Endonuclease 8-like 1
+1vas	0	Endonuclease V
+1b3t	1	Epstein-Barr nuclear antigen 1
+5t7x	1	Epstein-Barr nuclear antigen 1
+1hcq	1	Estrogen receptor
+4aa6	1	Estrogen receptor
+4bnc	1	ETS translocation variant 1
+4uuv	1	ETS translocation variant 4
+4uno	1	ETS translocation variant 5
+3jtg	1	ETS-related transcription factor Elf-3
+1rh6	0	Excisionase
+2ief	0	Excisionase
+2og0	0	Excisionase
+4fzy	0	Exodeoxyribonuclease 10
+4fzz	0	Exodeoxyribonuclease 10
+3slp	0	Exonuclease
+3sm4	0	Exonuclease
+4wuz	0	Exonuclease
+4bxo	0	Fanconi anemia group M protein
+4ri8	0	Fanconi-associated nuclease 1
+4ri9	0	Fanconi-associated nuclease 1
+4ria	0	Fanconi-associated nuclease 1
+4ric	0	Fanconi-associated nuclease 1
+4rb1	1	Ferric uptake regulation protein
+1rxw	0	Flap endonuclease 1
+3q8k	0	Flap endonuclease 1
+3q8l	0	Flap endonuclease 1
+3q8m	0	Flap endonuclease 1
+5k97	0	Flap endonuclease 1
+5kse	0	Flap endonuclease 1
+5t9j	0	Flap endonuclease GEN homolog 1
+3zdb	0	Flap endonuclease Xni
+3zdd	0	Flap endonuclease Xni
+2c6y	1	Forkhead box protein K2
+3g73	1	Forkhead box protein M1
+4lg0	1	Forkhead box protein O1
+5dui	1	Forkhead box protein O1
+2uzk	1	Forkhead box protein O3
+3l2c	1	Forkhead box protein O4
+1k82	0	Formamidopyrimidine-DNA glycosylase
+1kfv	0	Formamidopyrimidine-DNA glycosylase
+1l1t	0	Formamidopyrimidine-DNA glycosylase
+1l1z	0	Formamidopyrimidine-DNA glycosylase
+1l2c	0	Formamidopyrimidine-DNA glycosylase
+1nnj	0	Formamidopyrimidine-DNA glycosylase
+1pji	0	Formamidopyrimidine-DNA glycosylase
+1pjj	0	Formamidopyrimidine-DNA glycosylase
+1pm5	0	Formamidopyrimidine-DNA glycosylase
+1r2y	0	Formamidopyrimidine-DNA glycosylase
+1r2z	0	Formamidopyrimidine-DNA glycosylase
+1tdz	0	Formamidopyrimidine-DNA glycosylase
+1xc8	0	Formamidopyrimidine-DNA glycosylase
+2f5n	0	Formamidopyrimidine-DNA glycosylase
+2f5o	0	Formamidopyrimidine-DNA glycosylase
+2f5p	0	Formamidopyrimidine-DNA glycosylase
+2f5q	0	Formamidopyrimidine-DNA glycosylase
+2f5s	0	Formamidopyrimidine-DNA glycosylase
+2xzf	0	Formamidopyrimidine-DNA glycosylase
+2xzu	0	Formamidopyrimidine-DNA glycosylase
+3c58	0	Formamidopyrimidine-DNA glycosylase
+3go8	0	Formamidopyrimidine-DNA glycosylase
+3gp1	0	Formamidopyrimidine-DNA glycosylase
+3gpp	0	Formamidopyrimidine-DNA glycosylase
+3gpu	0	Formamidopyrimidine-DNA glycosylase
+3gpx	0	Formamidopyrimidine-DNA glycosylase
+3gpy	0	Formamidopyrimidine-DNA glycosylase
+3gq3	0	Formamidopyrimidine-DNA glycosylase
+3gq4	0	Formamidopyrimidine-DNA glycosylase
+3gq5	0	Formamidopyrimidine-DNA glycosylase
+3jr4	0	Formamidopyrimidine-DNA glycosylase
+3jr5	0	Formamidopyrimidine-DNA glycosylase
+3sar	0	Formamidopyrimidine-DNA glycosylase
+3sas	0	Formamidopyrimidine-DNA glycosylase
+3sat	0	Formamidopyrimidine-DNA glycosylase
+3sau	0	Formamidopyrimidine-DNA glycosylase
+3sav	0	Formamidopyrimidine-DNA glycosylase
+3saw	0	Formamidopyrimidine-DNA glycosylase
+3sbj	0	Formamidopyrimidine-DNA glycosylase
+3twm	0	Formamidopyrimidine-DNA glycosylase
+3u6o	0	Formamidopyrimidine-DNA glycosylase
+3u6p	0	Formamidopyrimidine-DNA glycosylase
+3u6s	0	Formamidopyrimidine-DNA glycosylase
+4cis	0	Formamidopyrimidine-DNA glycosylase
+4g4n	0	Formamidopyrimidine-DNA glycosylase
+4g4q	0	Formamidopyrimidine-DNA glycosylase
+4pcz	0	Formamidopyrimidine-DNA glycosylase
+4pd2	0	Formamidopyrimidine-DNA glycosylase
+2rba	0	G/T mismatch-specific thymine DNA glycosylase
+3ufj	0	G/T mismatch-specific thymine DNA glycosylase
+3uo7	0	G/T mismatch-specific thymine DNA glycosylase
+4xeg	0	G/T mismatch-specific thymine DNA glycosylase
+4z3a	0	G/T mismatch-specific thymine DNA glycosylase
+4z47	0	G/T mismatch-specific thymine DNA glycosylase
+4z7b	0	G/T mismatch-specific thymine DNA glycosylase
+4z7z	0	G/T mismatch-specific thymine DNA glycosylase
+5cys	0	G/T mismatch-specific thymine DNA glycosylase
+5ff8	0	G/T mismatch-specific thymine DNA glycosylase
+5hf7	0	G/T mismatch-specific thymine DNA glycosylase
+5jxy	0	G/T mismatch-specific thymine DNA glycosylase
+5t2w	0	G/T mismatch-specific thymine DNA glycosylase
+1mtl	0	G/U mismatch-specific DNA glycosylase
+1awc	1	GA-binding protein alpha chain
+1d0e	0	Gag-Pol polyprotein
+1d1u	0	Gag-Pol polyprotein
+1i6j	0	Gag-Pol polyprotein
+1qai	0	Gag-Pol polyprotein
+1qaj	0	Gag-Pol polyprotein
+1ztw	0	Gag-Pol polyprotein
+2fjw	0	Gag-Pol polyprotein
+2fvp	0	Gag-Pol polyprotein
+2fvq	0	Gag-Pol polyprotein
+2fvr	0	Gag-Pol polyprotein
+2fvs	0	Gag-Pol polyprotein
+2hmi	0	Gag-Pol polyprotein
+2r2r	0	Gag-Pol polyprotein
+2r2t	0	Gag-Pol polyprotein
+4m94	0	Gag-Pol polyprotein
+4m95	0	Gag-Pol polyprotein
+4xo0	0	Gag-Pol polyprotein
+4xpc	0	Gag-Pol polyprotein
+4xpe	0	Gag-Pol polyprotein
+3rnu	1	Gamma-interferon-inducible protein 16
+1dgc	1	General control protein GCN4
+2dgc	1	General control protein GCN4
+1glu	1	Glucocorticoid receptor
+1lat	1	Glucocorticoid receptor
+1r4o	1	Glucocorticoid receptor
+1r4r	1	Glucocorticoid receptor
+3fyl	1	Glucocorticoid receptor
+3g6p	1	Glucocorticoid receptor
+3g6q	1	Glucocorticoid receptor
+3g6r	1	Glucocorticoid receptor
+3g6t	1	Glucocorticoid receptor
+3g6u	1	Glucocorticoid receptor
+3g8u	1	Glucocorticoid receptor
+3g8x	1	Glucocorticoid receptor
+3g97	1	Glucocorticoid receptor
+3g99	1	Glucocorticoid receptor
+3g9i	1	Glucocorticoid receptor
+3g9j	1	Glucocorticoid receptor
+3g9m	1	Glucocorticoid receptor
+3g9o	1	Glucocorticoid receptor
+3g9p	1	Glucocorticoid receptor
+4hn5	1	Glucocorticoid receptor
+4hn6	1	Glucocorticoid receptor
+5cbx	1	Glucocorticoid receptor
+5cby	1	Glucocorticoid receptor
+5cbz	1	Glucocorticoid receptor
+5cc1	1	Glucocorticoid receptor
+5e69	1	Glucocorticoid receptor
+5e6a	1	Glucocorticoid receptor
+5e6b	1	Glucocorticoid receptor
+5e6c	1	Glucocorticoid receptor
+5e6d	1	Glucocorticoid receptor
+5emc	1	Glucocorticoid receptor
+5emp	1	Glucocorticoid receptor
+5emq	1	Glucocorticoid receptor
+1fyl	1	Heat shock factor protein
+1fym	1	Heat shock factor protein
+1qp9	1	Heme-responsive zinc finger transcription factor HAP1
+1ic8	1	Hepatocyte nuclear factor 1-alpha
+3cbb	1	Hepatocyte nuclear factor 4-alpha
+2d5v	1	Hepatocyte nuclear factor 6
+4hri	0	Heterocyst differentiation control protein
+4qr9	1	High mobility group protein B1
+1qrv	1	High mobility group protein D
+3nm9	1	High mobility group protein D
+1eqz	0	Histone H2A-IV
+2nqb	0	Histone H3
+2pyo	0	Histone H3
+3wtp	0	Histone H3-like centromeric protein A
+1u35	0	Histone H3.1
+2cv5	0	Histone H3.1
+3afa	0	Histone H3.1
+3ayw	0	Histone H3.1
+3aze	0	Histone H3.1
+3azf	0	Histone H3.1
+3azg	0	Histone H3.1
+3azi	0	Histone H3.1
+3azj	0	Histone H3.1
+3azl	0	Histone H3.1
+3azm	0	Histone H3.1
+3azn	0	Histone H3.1
+3w96	0	Histone H3.1
+3w99	0	Histone H3.1
+3wkj	0	Histone H3.1
+3x1s	0	Histone H3.1
+3x1t	0	Histone H3.1
+3x1v	0	Histone H3.1
+5b31	0	Histone H3.1
+5cpi	0	Histone H3.1
+5cpk	0	Histone H3.1
+5gt0	0	Histone H3.1
+5gt3	0	Histone H3.1
+5gtc	0	Histone H3.1
+5jrg	0	Histone H3.1
+3a6n	0	Histone H3.1t
+1f66	0	Histone H3.2
+1kx3	0	Histone H3.2
+1kx4	0	Histone H3.2
+1kx5	0	Histone H3.2
+1p34	0	Histone H3.2
+1p3a	0	Histone H3.2
+1p3b	0	Histone H3.2
+1p3f	0	Histone H3.2
+1p3g	0	Histone H3.2
+1p3i	0	Histone H3.2
+1p3k	0	Histone H3.2
+1p3l	0	Histone H3.2
+1p3m	0	Histone H3.2
+1p3o	0	Histone H3.2
+1p3p	0	Histone H3.2
+1zla	0	Histone H3.2
+2f8n	0	Histone H3.2
+2nzd	0	Histone H3.2
+3av1	0	Histone H3.2
+3c1b	0	Histone H3.2
+3lel	0	Histone H3.2
+3lja	0	Histone H3.2
+3lz0	0	Histone H3.2
+3lz1	0	Histone H3.2
+3mgp	0	Histone H3.2
+3mgq	0	Histone H3.2
+3mgr	0	Histone H3.2
+3mvd	0	Histone H3.2
+3reh	0	Histone H3.2
+3rei	0	Histone H3.2
+3rej	0	Histone H3.2
+3rek	0	Histone H3.2
+3rel	0	Histone H3.2
+3tu4	0	Histone H3.2
+3ut9	0	Histone H3.2
+3uta	0	Histone H3.2
+3utb	0	Histone H3.2
+4xzq	0	Histone H3.2
+4ys3	0	Histone H3.2
+4z66	0	Histone H3.2
+5e5a	0	Histone H3.2
+5f99	0	Histone H3.2
+5mlu	0	Histone H3.2
+3av2	0	Histone H3.3
+5b32	0	Histone H3.3
+5b33	0	Histone H3.3
+1aoi	0	Histone H3.3C
+4z5t	0	Histone H3.3C
+4nw3	0	Histone-lysine N-methyltransferase 2A
+5egb	0	Histone-lysine N-methyltransferase PRDM9
+3q0f	0	Histone-lysine N-methyltransferase, H3 lysine-9 specific SUVH5
+4rdu	1	Homeobox protein DLX-5
+1puf	1	Homeobox protein Hox-A9
+1b72	1	Homeobox protein Hox-B1
+5eea	1	Homeobox protein Hox-B13
+5ef6	1	Homeobox protein Hox-B13
+5ego	1	Homeobox protein Meis1
+4xrm	1	Homeobox protein Meis2
+1ig7	1	Homeobox protein MSX-1
+3rkq	1	Homeobox protein Nkx-2.5
+1xpx	1	Homeobox protein prospero
+4j19	1	Homeobox-containing protein 1
+5jlx	1	Homeotic protein antennapedia
+2r5y	1	Homeotic protein Sex combs reduced
+2r5z	1	Homeotic protein Sex combs reduced
+1b8i	1	Homeotic protein ultrabithorax
+4cyc	1	Homeotic protein ultrabithorax
+4uus	1	Homeotic protein ultrabithorax
+2vs7	0	Homing endonuclease I-DmoI
+2vs8	0	Homing endonuclease I-DmoI
+4d6n	0	Homing endonuclease I-DmoI
+4d6o	0	Homing endonuclease I-DmoI
+4un7	0	Homing endonuclease I-DmoI
+4un8	0	Homing endonuclease I-DmoI
+4un9	0	Homing endonuclease I-DmoI
+4una	0	Homing endonuclease I-DmoI
+4unb	0	Homing endonuclease I-DmoI
+4unc	0	Homing endonuclease I-DmoI
+4ut0	0	Homing endonuclease I-DmoI
+5a0w	0	Homing endonuclease I-DmoI
+5ak9	0	Homing endonuclease I-DmoI
+5akf	0	Homing endonuclease I-DmoI
+5akm	0	Homing endonuclease I-DmoI
+5akn	0	Homing endonuclease I-DmoI
+1r8d	1	HTH-type transcriptional activator mta
+2vz4	1	HTH-type transcriptional activator TipA
+4iht	1	HTH-type transcriptional regulator BenM
+4wls	1	HTH-type transcriptional regulator CueR
+4wlw	1	HTH-type transcriptional regulator CueR
+4chu	1	HTH-type transcriptional regulator IscR
+4hf1	1	HTH-type transcriptional regulator IscR
+4hf2	1	HTH-type transcriptional regulator IscR
+1jt0	1	HTH-type transcriptional regulator QacR
+3zkc	1	HTH-type transcriptional regulator SinR
+5fmp	1	HTH-type transcriptional repressor KstR
+4u0y	1	HTH-type transcriptional repressor YvoA
+4wwc	1	HTH-type transcriptional repressor YvoA
+1p7d	0	Integrase
+1z19	0	Integrase
+1ihf	1	Integration host factor subunit alpha
+1ouz	1	Integration host factor subunit alpha
+1owf	1	Integration host factor subunit alpha
+1owg	1	Integration host factor subunit alpha
+2ht0	1	Integration host factor subunit alpha
+1if1	1	Interferon regulatory factor 1
+1t2k	1	Interferon regulatory factor 3
+2pi0	1	Interferon regulatory factor 3
+4jbk	1	Interferon-activable protein 202
+4l5s	1	Interferon-activable protein 202
+4lnq	1	Interferon-activable protein 202
+3rn2	1	Interferon-inducible protein AIM2
+3rn5	1	Interferon-inducible protein AIM2
+4jbm	1	Interferon-inducible protein AIM2
+1i3j	0	Intron-associated endonuclease 1
+1t2t	0	Intron-associated endonuclease 1
+3eh8	0	Intron-encoded DNA endonuclease I-AniI
+1a73	0	Intron-encoded endonuclease I-PpoI
+1cyq	0	Intron-encoded endonuclease I-PpoI
+2o6m	0	Intron-encoded endonuclease I-PpoI
+1r7m	0	Intron-encoded endonuclease I-SceI
+3c0w	0	Intron-encoded endonuclease I-SceI
+3c0x	0	Intron-encoded endonuclease I-SceI
+3ool	0	Intron-encoded endonuclease I-SceI
+3oor	0	Intron-encoded endonuclease I-SceI
+5a0m	0	Intron-encoded endonuclease I-SceI
+1u8r	1	Iron-dependent repressor IdeR
+2isz	1	Iron-dependent repressor IdeR
+2it0	1	Iron-dependent repressor IdeR
+4lmg	1	Iron-regulated transcriptional activator AFT2
+4kfc	1	KDP operon transcriptional regulatory protein KdpE
+4kny	1	KDP operon transcriptional regulatory protein KdpE
+2wbs	1	Krueppel-like factor 4
+2wbu	1	Krueppel-like factor 4
+5ke6	1	Krueppel-like factor 4
+5ke7	1	Krueppel-like factor 4
+5ke9	1	Krueppel-like factor 4
+5kea	1	Krueppel-like factor 4
+5keb	1	Krueppel-like factor 4
+4gdf	0	Large T antigen
+5d9i	0	Large T antigen
+2fio	1	Late genes activator p4
+3jso	1	LexA repressor
+3jsp	1	LexA repressor
+5hod	1	LIM/homeobox protein Lhx4
+5lej	0	Listeriolysin regulatory protein
+5lek	0	Listeriolysin regulatory protein
+3vea	1	Macrodomain Ter protein
+3veb	1	Macrodomain Ter protein
+1hlv	0	Major centromere autoantigen B
+5mhj	1	Major viral transcription factor ICP4
+5mhk	1	Major viral transcription factor ICP4
+3oa6	0	Male-specific lethal 3 homolog
+1akh	1	Mating-type protein A1
+1le8	1	Mating-type protein A1
+1yrn	1	Mating-type protein A1
+1k61	1	Mating-type protein ALPHA2
+1nlw	1	Max dimerization protein 1
+1mnn	1	Meiosis-specific transcription factor NDT80
+2etw	1	Meiosis-specific transcription factor NDT80
+2euv	1	Meiosis-specific transcription factor NDT80
+2euw	1	Meiosis-specific transcription factor NDT80
+2eux	1	Meiosis-specific transcription factor NDT80
+2euz	1	Meiosis-specific transcription factor NDT80
+2evf	1	Meiosis-specific transcription factor NDT80
+2evg	1	Meiosis-specific transcription factor NDT80
+2evh	1	Meiosis-specific transcription factor NDT80
+2evi	1	Meiosis-specific transcription factor NDT80
+2evj	1	Meiosis-specific transcription factor NDT80
+1mjm	1	Met repressor
+1sax	1	Methicillin resistance regulatory protein MecI
+3vxv	0	Methyl-CpG-binding domain protein 4
+3vxx	0	Methyl-CpG-binding domain protein 4
+3vyb	0	Methyl-CpG-binding domain protein 4
+4dk9	0	Methyl-CpG-binding domain protein 4
+4e9f	0	Methyl-CpG-binding domain protein 4
+4e9g	0	Methyl-CpG-binding domain protein 4
+4e9h	0	Methyl-CpG-binding domain protein 4
+4ea4	0	Methyl-CpG-binding domain protein 4
+4ea5	0	Methyl-CpG-binding domain protein 4
+4evv	0	Methyl-CpG-binding domain protein 4
+4ew0	0	Methyl-CpG-binding domain protein 4
+4ofa	0	Methyl-CpG-binding domain protein 4
+4ofe	0	Methyl-CpG-binding domain protein 4
+4ofh	0	Methyl-CpG-binding domain protein 4
+5chz	0	Methyl-CpG-binding domain protein 4
+3c2i	0	Methyl-CpG-binding protein 2
+5bt2	0	Methyl-CpG-binding protein 2
+4atk	1	Microphthalmia-associated transcription factor
+5jlt	1	Middle transcription regulatory protein motA
+4tnt	1	Mineralocorticoid receptor
+1dct	0	Modification methylase HaeIII
+3kmp	1	Mothers against decapentaplegic homolog 1
+1mhd	1	Mothers against decapentaplegic homolog 3
+1ozj	1	Mothers against decapentaplegic homolog 3
+3qsv	1	Mothers against decapentaplegic homolog 4
+3fdq	1	Motility gene repressor MogR
+3d70	0	Multidrug-efflux transporter 1 regulator
+2r9l	0	Multifunctional non-homologous end joining DNA repair protein LigD
+1bl0	1	Multiple antibiotic resistance protein MarA
+5h3r	1	Multiple antibiotic resistance protein MarR
+1nkp	1	Myc proto-oncogene protein
+5i50	1	Myc proto-oncogene protein
+1mdy	1	Myoblast determination protein 1
+1egw	1	Myocyte-specific enhancer factor 2A
+3kov	1	Myocyte-specific enhancer factor 2A
+3p57	1	Myocyte-specific enhancer factor 2A
+1n6j	1	Myocyte-specific enhancer factor 2B
+1ebm	0	N-glycosylase/DNA lyase
+1fn7	0	N-glycosylase/DNA lyase
+1lwy	0	N-glycosylase/DNA lyase
+1m3h	0	N-glycosylase/DNA lyase
+1n39	0	N-glycosylase/DNA lyase
+1n3a	0	N-glycosylase/DNA lyase
+1n3c	0	N-glycosylase/DNA lyase
+1yqk	0	N-glycosylase/DNA lyase
+1yql	0	N-glycosylase/DNA lyase
+1yqm	0	N-glycosylase/DNA lyase
+1yqr	0	N-glycosylase/DNA lyase
+2i5w	0	N-glycosylase/DNA lyase
+2nob	0	N-glycosylase/DNA lyase
+2noe	0	N-glycosylase/DNA lyase
+2noh	0	N-glycosylase/DNA lyase
+2noi	0	N-glycosylase/DNA lyase
+2nol	0	N-glycosylase/DNA lyase
+2noz	0	N-glycosylase/DNA lyase
+2xhi	0	N-glycosylase/DNA lyase
+3knt	0	N-glycosylase/DNA lyase
+3ktu	0	N-glycosylase/DNA lyase
+1j3e	0	Negative modulator of initiation of replication
+1lrr	0	Negative modulator of initiation of replication
+1je8	1	Nitrate/nitrite response regulator protein NarL
+1zg1	1	Nitrate/nitrite response regulator protein NarL
+1zg5	1	Nitrate/nitrite response regulator protein NarL
+1a3q	1	Nuclear factor NF-kappa-B p100 subunit
+1nfk	1	Nuclear factor NF-kappa-B p105 subunit
+1a6y	1	Nuclear receptor subfamily 1 group D member 1
+1ga5	1	Nuclear receptor subfamily 1 group D member 1
+1hlz	1	Nuclear receptor subfamily 1 group D member 1
+1cit	1	Nuclear receptor subfamily 4 group A member 1
+2a66	1	Nuclear receptor subfamily 5 group A member 2
+5l0m	1	Nuclear receptor subfamily 5 group A member 2
+5t4i	0	Nuclease EXOG, mitochondrial
+5t5c	0	Nuclease EXOG, mitochondrial
+4gck	0	Nucleoid occlusion factor SlmA
+4gct	0	Nucleoid occlusion factor SlmA
+5hbu	0	Nucleoid occlusion factor SlmA
+173d	0	null
+209d	0	null
+2d55	0	null
+316d	0	null
+3uxw	1	null
+5l7c	0	null
+1z9c	1	Organic hydroperoxide resistance transcriptional regulator
+1mow	0	P05725:#DNA endonuclease I-CreI#P21505:#Homing endonuclease I-DmoI
+2iie	1	P0A6X7:#Integration host factor subunit alpha#P0A6Y1:#Integration host factor subunit beta
+2iif	1	P0A6X7:#Integration host factor subunit alpha#P0A6Y1:#Integration host factor subunit beta
+3cmy	1	Paired box protein Pax-3
+1k78	1	Paired box protein Pax-5
+1mdm	1	Paired box protein Pax-5
+2h1k	1	Pancreas/duodenum homeobox protein 1
+1xsd	1	Penicillinase repressor
+1mnm	1	Pheromone receptor transcription factor
+1gxp	1	Phosphate regulon transcriptional regulatory protein PhoB
+1a0a	1	Phosphate system positive regulatory protein PHO4
+1au7	1	Pituitary-specific positive transcription factor 1
+2w42	0	Piwi protein AF_1318
+4lvi	0	Plasmid recombination enzyme
+4lvj	0	Plasmid recombination enzyme
+4lvk	0	Plasmid recombination enzyme
+4lvl	0	Plasmid recombination enzyme
+5n2q	0	Plasmid recombination enzyme
+3od8	0	Poly [ADP-ribose] polymerase 1
+3oda	0	Poly [ADP-ribose] polymerase 1
+3odc	0	Poly [ADP-ribose] polymerase 1
+3ode	0	Poly [ADP-ribose] polymerase 1
+1hf0	1	POU domain, class 2, transcription factor 1
+3l1p	1	POU domain, class 5, transcription factor 1
+3l2r	0	Pro-Pol polyprotein
+3os0	0	Pro-Pol polyprotein
+3os1	0	Pro-Pol polyprotein
+3oy9	0	Pro-Pol polyprotein
+3oyi	0	Pro-Pol polyprotein
+3oyk	0	Pro-Pol polyprotein
+4e7l	0	Pro-Pol polyprotein
+4b22	0	Probable DNA-3-methyladenine glycosylase 2
+4b23	0	Probable DNA-3-methyladenine glycosylase 2
+4b24	0	Probable DNA-3-methyladenine glycosylase 2
+3a46	0	Probable formamidopyrimidine-DNA glycosylase
+3vk7	0	Probable formamidopyrimidine-DNA glycosylase
+3vk8	0	Probable formamidopyrimidine-DNA glycosylase
+4nrw	0	Probable formamidopyrimidine-DNA glycosylase
+2c7a	1	Progesterone receptor
+5cc0	1	Progesterone receptor
+3k4x	0	Proliferating cell nuclear antigen
+1k79	1	Protein C-ets-1
+1k7a	1	Protein C-ets-1
+2nny	1	Protein C-ets-1
+3mfk	1	Protein C-ets-1
+3ri4	1	Protein C-ets-1
+4bqa	1	Protein C-ets-2
+1b01	0	Protein CopG
+1ea4	0	Protein CopG
+3zp5	1	Protein FEV
+4ix7	1	Protein insensitive
+2vy1	1	Protein LEAFY
+5fd3	1	Protein lin-54 homolog
+1an2	1	Protein max
+1hlo	1	Protein max
+5eyo	1	Protein max
+4uzb	0	Protein ORF73
+4zq9	0	Protein Rep68
+3mkw	0	Protein SopB
+3mky	0	Protein SopB
+3mkz	0	Protein SopB
+2drp	1	Protein tramtrack, beta isoform
+1r0o	1	Protein ultraspiracle
+2han	1	Protein ultraspiracle
+2wt7	1	Proto-oncogene c-Fos
+1gji	1	Proto-oncogene c-Rel
+4wzw	0	Pumilio homolog 3
+5bpd	1	Putative HTH-type transcriptional regulator TrmBL2
+2o61	1	Q04206:#Transcription factor p65#Q14653:#Interferon regulatory factor 3#Q92985:#Interferon regulatory factor 7
+4f4z	0	Q4JB80:#DNA polymerase IV#Q97W02:#DNA polymerase IV
+4f50	0	Q4JB80:#DNA polymerase IV#Q97W02:#DNA polymerase IV
+1crx	0	Recombinase cre
+1drg	0	Recombinase cre
+1f44	0	Recombinase cre
+1kbu	0	Recombinase cre
+1ma7	0	Recombinase cre
+1pvp	0	Recombinase cre
+1pvq	0	Recombinase cre
+1pvr	0	Recombinase cre
+1q3u	0	Recombinase cre
+1q3v	0	Recombinase cre
+1xns	0	Recombinase cre
+1xo0	0	Recombinase cre
+2crx	0	Recombinase cre
+2hof	0	Recombinase cre
+2hoi	0	Recombinase cre
+3c28	0	Recombinase cre
+3c29	0	Recombinase cre
+3crx	0	Recombinase cre
+3mgv	0	Recombinase cre
+4crx	0	Recombinase cre
+5crx	0	Recombinase cre
+2qnf	0	Recombination endonuclease VII
+4j2x	1	Recombining binding protein suppressor of hairless
+3orc	1	Regulatory protein cro
+1jj4	1	Regulatory protein E2
+1d66	1	Regulatory protein GAL4
+2er8	1	Regulatory protein LEU3
+2ere	1	Regulatory protein LEU3
+3on0	0	Relaxosome protein TraM
+4er8	0	REP-associated tyrosine transposase
+1f4k	0	Replication termination protein
+2efw	0	Replication termination protein
+1lli	1	Repressor protein cI
+1dsz	1	Retinoic acid receptor alpha
+1by4	1	Retinoic acid receptor RXR-alpha
+1r0n	1	Retinoic acid receptor RXR-alpha
+2nll	1	Retinoic acid receptor RXR-alpha
+4cn3	1	Retinoic acid receptor RXR-alpha
+4cn5	1	Retinoic acid receptor RXR-alpha
+4cn7	1	Retinoic acid receptor RXR-alpha
+2ihn	0	Ribonuclease H
+3d0p	0	Ribonuclease H
+4huf	0	Ribonuclease H
+4opj	0	Ribonuclease H
+4opk	0	Ribonuclease H
+3o3g	0	Ribonuclease HII
+4kaz	0	Ribonuclease T
+4kb0	0	Ribonuclease T
+4kb1	0	Ribonuclease T
+1d5y	0	Right origin-binding protein
+1ku7	0	RNA polymerase sigma factor SigA
+1h9d	1	Runt-related transcription factor 1
+1hjc	1	Runt-related transcription factor 1
+3wts	1	Runt-related transcription factor 1
+3wtt	1	Runt-related transcription factor 1
+3wtu	1	Runt-related transcription factor 1
+3wtv	1	Runt-related transcription factor 1
+3wtw	1	Runt-related transcription factor 1
+3wtx	1	Runt-related transcription factor 1
+3wty	1	Runt-related transcription factor 1
+3wu1	1	Runt-related transcription factor 1
+4l0y	1	Runt-related transcription factor 1
+4l0z	1	Runt-related transcription factor 1
+4l18	1	Runt-related transcription factor 1
+1du0	1	Segmentation polarity homeobox protein engrailed
+2hdd	1	Segmentation polarity homeobox protein engrailed
+3hdd	1	Segmentation polarity homeobox protein engrailed
+1jgg	1	Segmentation protein even-skipped
+1fjl	1	Segmentation protein paired
+3pov	0	Shutoff alkaline exonuclease
+1bf5	1	Signal transducer and activator of transcription 1-alpha/beta
+1oe4	0	Single-strand selective monofunctional uracil DNA glycosylase
+1flo	0	Site-specific recombinase Flp
+1m6x	0	Site-specific recombinase Flp
+1p4e	0	Site-specific recombinase Flp
+1lq1	1	Stage 0 sporulation protein A
+1am9	1	Sterol regulatory element-binding protein 1
+4a04	1	T-box transcription factor TBX1
+5t1j	1	T-box transcription factor TBX21
+1h6f	1	T-box transcription factor TBX3
+4s0h	1	T-box transcription factor TBX5
+2ypa	1	T-cell acute lymphocytic leukemia protein 1
+2ypb	1	T-cell acute lymphocytic leukemia protein 1
+5hnk	0	T5 flap endonuclease
+1cez	0	T7 RNA polymerase
+1h38	0	T7 RNA polymerase
+1qln	0	T7 RNA polymerase
+2pi5	0	T7 RNA polymerase
+3e2e	0	T7 RNA polymerase
+3ugm	1	TAL effector protein PthXo1
+1ais	1	TATA-box-binding protein
+1cdw	1	TATA-box-binding protein
+1d3u	1	TATA-box-binding protein
+1ngm	1	TATA-box-binding protein
+1nh2	1	TATA-box-binding protein
+1nvp	1	TATA-box-binding protein
+1rm1	1	TATA-box-binding protein
+1tgh	1	TATA-box-binding protein
+1ytb	1	TATA-box-binding protein
+1ytf	1	TATA-box-binding protein
+1qn3	1	TATA-box-binding protein 1
+1qn4	1	TATA-box-binding protein 1
+1qn5	1	TATA-box-binding protein 1
+1qn6	1	TATA-box-binding protein 1
+1qn7	1	TATA-box-binding protein 1
+1qn8	1	TATA-box-binding protein 1
+1qn9	1	TATA-box-binding protein 1
+1qna	1	TATA-box-binding protein 1
+1qnb	1	TATA-box-binding protein 1
+1qnc	1	TATA-box-binding protein 1
+1qne	1	TATA-box-binding protein 1
+1vto	1	TATA-box-binding protein 1
+1w0t	1	Telomeric repeat-binding factor 1
+1w0u	1	Telomeric repeat-binding factor 2
+3sjm	1	Telomeric repeat-binding factor 2
+1qpi	1	Tetracycline repressor protein class D
+3m9e	1	Thyroid hormone receptor beta
+2bsq	0	Toxin FitB
+2h1o	0	Toxin FitB
+3dfx	1	Trans-acting T-cell-specific transcription factor GATA-3
+4hc7	1	Trans-acting T-cell-specific transcription factor GATA-3
+4hc9	1	Trans-acting T-cell-specific transcription factor GATA-3
+4hca	1	Trans-acting T-cell-specific transcription factor GATA-3
+5szx	1	Trans-activator protein BZLF1
+3tmm	1	Transcription factor A, mitochondrial
+3tq6	1	Transcription factor A, mitochondrial
+4nnu	1	Transcription factor A, mitochondrial
+4nod	1	Transcription factor A, mitochondrial
+1jnm	1	Transcription factor AP-1
+5t01	1	Transcription factor AP-1
+3mln	1	Transcription factor COE1
+2ql2	1	Transcription factor E2-alpha
+1cf7	1	Transcription factor E2F4
+4mhg	1	Transcription factor ETV6
+4roc	1	Transcription factor IIIB 50 kDa subunit
+4rod	1	Transcription factor IIIB 50 kDa subunit
+4roe	1	Transcription factor IIIB 50 kDa subunit
+4eot	1	Transcription factor MafA
+2wty	1	Transcription factor MafB
+3a5t	1	Transcription factor MafG
+5gnj	1	Transcription factor MYC2
+1le5	1	Transcription factor p65
+1le9	1	Transcription factor p65
+1lei	1	Transcription factor p65
+1vkx	1	Transcription factor p65
+2i9t	1	Transcription factor p65
+4euw	1	Transcription factor SOX-9
+1c9b	1	Transcription initiation factor IIB
+1vol	1	Transcription initiation factor IIB
+1zs4	0	Transcriptional activator II
+5gzb	1	Transcriptional enhancer factor TEF-3
+3h0d	1	Transcriptional regulator CtsR
+4iri	1	Transcriptional regulator ERG
+4f6m	1	Transcriptional regulator Kaiso
+4f6n	1	Transcriptional regulator Kaiso
+3q5f	1	Transcriptional regulator SlyA
+4aij	1	Transcriptional regulator SlyA
+4aik	1	Transcriptional regulator SlyA
+1bdt	1	Transcriptional repressor arc
+1bdv	1	Transcriptional repressor arc
+1par	1	Transcriptional repressor arc
+5k5i	1	Transcriptional repressor CTCF
+5k5j	1	Transcriptional repressor CTCF
+5kkq	1	Transcriptional repressor CTCF
+5t00	1	Transcriptional repressor CTCF
+5und	1	Transcriptional repressor CTCF
+1r71	1	Transcriptional repressor protein KorB
+1mm8	0	Transposase for transposon Tn5
+1muh	0	Transposase for transposon Tn5
+1mus	0	Transposase for transposon Tn5
+3ecp	0	Transposase for transposon Tn5
+4dm0	0	Transposase for transposon Tn5
+1gdt	0	Transposon gamma-delta resolvase
+2w7n	1	TrfB transcriptional repressor protein
+5clv	1	TrfB transcriptional repressor protein
+5cm3	1	TrfB transcriptional repressor protein
+3qyn	1	Tumor protein 63
+3us0	1	Tumor protein 63
+3us1	1	Tumor protein 63
+3vd0	1	Tumor protein p73
+3vd1	1	Tumor protein p73
+5kbd	1	Tumor protein p73
+5dwa	0	Type-2 restriction enzyme AgeI
+5dwb	0	Type-2 restriction enzyme AgeI
+1bhm	0	Type-2 restriction enzyme BamHI
+1esg	0	Type-2 restriction enzyme BamHI
+2bam	0	Type-2 restriction enzyme BamHI
+3bam	0	Type-2 restriction enzyme BamHI
+1dmu	0	Type-2 restriction enzyme BglI
+1d2i	0	Type-2 restriction enzyme BglII
+1dfm	0	Type-2 restriction enzyme BglII
+1dc1	0	Type-2 restriction enzyme BsoBI
+1ckq	0	Type-2 restriction enzyme EcoRI
+1cl8	0	Type-2 restriction enzyme EcoRI
+1eri	0	Type-2 restriction enzyme EcoRI
+1qrh	0	Type-2 restriction enzyme EcoRI
+1qri	0	Type-2 restriction enzyme EcoRI
+2oxv	0	Type-2 restriction enzyme EcoRI
+1az0	0	Type-2 restriction enzyme EcoRV
+1b94	0	Type-2 restriction enzyme EcoRV
+1b95	0	Type-2 restriction enzyme EcoRV
+1b96	0	Type-2 restriction enzyme EcoRV
+1b97	0	Type-2 restriction enzyme EcoRV
+1bgb	0	Type-2 restriction enzyme EcoRV
+1bss	0	Type-2 restriction enzyme EcoRV
+1eoo	0	Type-2 restriction enzyme EcoRV
+1eop	0	Type-2 restriction enzyme EcoRV
+1rv5	0	Type-2 restriction enzyme EcoRV
+1rva	0	Type-2 restriction enzyme EcoRV
+1rvb	0	Type-2 restriction enzyme EcoRV
+1rvc	0	Type-2 restriction enzyme EcoRV
+1stx	0	Type-2 restriction enzyme EcoRV
+1suz	0	Type-2 restriction enzyme EcoRV
+1sx5	0	Type-2 restriction enzyme EcoRV
+1sx8	0	Type-2 restriction enzyme EcoRV
+2b0d	0	Type-2 restriction enzyme EcoRV
+2b0e	0	Type-2 restriction enzyme EcoRV
+2ge5	0	Type-2 restriction enzyme EcoRV
+2rve	0	Type-2 restriction enzyme EcoRV
+4rve	0	Type-2 restriction enzyme EcoRV
+5f8a	0	Type-2 restriction enzyme EcoRV
+5hlk	0	Type-2 restriction enzyme EcoRV
+1fok	0	Type-2 restriction enzyme FokI
+1kc6	0	Type-2 restriction enzyme HincII
+1tw8	0	Type-2 restriction enzyme HincII
+1tx3	0	Type-2 restriction enzyme HincII
+1xhu	0	Type-2 restriction enzyme HincII
+1xhv	0	Type-2 restriction enzyme HincII
+2gie	0	Type-2 restriction enzyme HincII
+2gig	0	Type-2 restriction enzyme HincII
+2gih	0	Type-2 restriction enzyme HincII
+2gii	0	Type-2 restriction enzyme HincII
+2gij	0	Type-2 restriction enzyme HincII
+3e3y	0	Type-2 restriction enzyme HincII
+3e40	0	Type-2 restriction enzyme HincII
+3e41	0	Type-2 restriction enzyme HincII
+3e42	0	Type-2 restriction enzyme HincII
+3e44	0	Type-2 restriction enzyme HincII
+3e45	0	Type-2 restriction enzyme HincII
+3ebc	0	Type-2 restriction enzyme HincII
+2e52	0	Type-2 restriction enzyme HindIII
+3wvg	0	Type-2 restriction enzyme HindIII
+3wvh	0	Type-2 restriction enzyme HindIII
+3wvi	0	Type-2 restriction enzyme HindIII
+3wvp	0	Type-2 restriction enzyme HindIII
+1sa3	0	Type-2 restriction enzyme MspI
+1yfi	0	Type-2 restriction enzyme MspI
+1d02	0	Type-2 restriction enzyme MunI
+1iaw	0	Type-2 restriction enzyme NaeI
+4abt	0	Type-2 restriction enzyme NgoMIV
+1eyu	0	Type-2 restriction enzyme PvuII
+2pvi	0	Type-2 restriction enzyme PvuII
+2ezv	0	Type-2 restriction enzyme SfiI
+5jjv	0	Tyrosine recombinase XerH
+5jk0	0	Tyrosine recombinase XerH
+5ink	0	Tyrosyl-DNA phosphodiesterase 2
+5inl	0	Tyrosyl-DNA phosphodiesterase 2
+5inp	0	Tyrosyl-DNA phosphodiesterase 2
+5inq	0	Tyrosyl-DNA phosphodiesterase 2
+5esp	0	Uncharacterized 49.1 kDa protein in ND3 intron
+5d8c	1	Uncharacterized HTH-type transcriptional regulator HI_0186
+5e01	1	Uncharacterized HTH-type transcriptional regulator HI_0186
+2e1c	1	Uncharacterized HTH-type transcriptional regulator PH1519
+5hso	1	Uncharacterized HTH-type transcriptional regulator Rv2887
+1an4	1	Upstream stimulatory factor 1
+1emh	0	Uracil-DNA glycosylase
+2oxm	0	Uracil-DNA glycosylase
+2oyt	0	Uracil-DNA glycosylase
+4qcb	0	Uracil-DNA glycosylase
+4uqm	0	Uracil-DNA glycosylase
+3pih	0	UvrABC system protein A
+1cw0	0	Very short patch repair protein
+2h7h	1	Viral jun-transforming protein
+3c2p	0	Virion DNA-directed RNA polymerase
+3c3l	0	Virion DNA-directed RNA polymerase
+3c46	0	Virion DNA-directed RNA polymerase
+4ff1	0	Virion DNA-directed RNA polymerase
+3vwb	1	Virulence regulon transcriptional activator VirB
+3w2a	1	Virulence regulon transcriptional activator VirB
+3w3c	1	Virulence regulon transcriptional activator VirB
+1kb2	1	Vitamin D3 receptor
+1kb4	1	Vitamin D3 receptor
+1kb6	1	Vitamin D3 receptor
+1ynw	1	Vitamin D3 receptor
+3hxo	0	von Willebrand factor
+3hxq	0	von Willebrand factor
+4qtj	1	White-opaque regulator 1
+4qtk	1	White-opaque regulator 1
+4r2e	1	Wilms tumor protein
+4r2p	1	Wilms tumor protein
+4r2q	1	Wilms tumor protein
+4r2r	1	Wilms tumor protein
+4r2s	1	Wilms tumor protein
+5kl2	1	Wilms tumor protein
+5kl3	1	Wilms tumor protein
+5kl4	1	Wilms tumor protein
+5kl5	1	Wilms tumor protein
+5kl6	1	Wilms tumor protein
+5kl7	1	Wilms tumor protein
+1jey	0	X-ray repair cross-complementing protein 6
+2i13	1	Zinc finger and SCAN domain-containing protein 2
+2gli	1	Zinc finger protein GLI1
+4mtd	1	Zinc uptake regulation protein
+4mte	1	Zinc uptake regulation protein
+1a02	1	
+1apl	1	CRYSTAL STRUCTURE OF A MAT-ALPHA2 HOMEODOMAIN-OPERATOR COMPLEX SUGGESTS A GENERAL MODEL FOR HOMEODOMAIN-DNA INTERACTIONS
+1bc7	1	SERUM RESPONSE FACTOR ACCESSORY PROTEIN 1A (SAP-1)/DNA COMPLEX
+1bc8	1	STRUCTURES OF SAP-1 BOUND TO DNA SEQUENCES FROM THE E74 AND C-FOS PROMOTERS PROVIDE INSIGHTS INTO HOW ETS PROTEINS DISCRIMINATE BETWEEN RELATED DNA TARGETS
+1bp7	0	GROUP I MOBILE INTRON ENDONUCLEASE I-CREI COMPLEXED WITH HOMING SITE DNA
+1dux	1	ELK-1/DNA STRUCTURE REVEALS HOW RESIDUES DISTAL FROM DNA-BINDING SURFACE AFFECT DNA-RECOGNITION
+1e3o	1	Crystal structure of Oct-1 POU dimer bound to MORE
+1f2i	1	COCRYSTAL STRUCTURE OF SELECTED ZINC FINGER DIMER BOUND TO DNA
+1g2d	1	STRUCTURE OF A CYS2HIS2 ZINC FINGER/TATA BOX COMPLEX (CLONE #2)
+1g2f	1	STRUCTURE OF A CYS2HIS2 ZINC FINGER/TATA BOX COMPLEX (TATAZF;CLONE #6)
+1gd2	1	CRYSTAL STRUCTURE OF BZIP TRANSCRIPTION FACTOR PAP1 BOUND TO DNA
+1gt0	1	Crystal structure of a POU/HMG/DNA ternary complex
+1hdd	1	CRYSTAL STRUCTURE OF AN ENGRAILED HOMEODOMAIN-DNA COMPLEX AT 2.8 ANGSTROMS RESOLUTION: A FRAMEWORK FOR UNDERSTANDING HOMEODOMAIN-DNA INTERACTIONS
+1hwt	1	STRUCTURE OF A HAP1/DNA COMPLEX REVEALS DRAMATICALLY ASYMMETRIC DNA BINDING BY A HOMODIMERIC PROTEIN
+1ijw	0	Testing the Water-Mediated Hin Recombinase DNA Recognition by Systematic Mutations.
+1imh	1	TonEBP/DNA COMPLEX
+1iu3	0	CRYSTAL STRUCTURE OF THE E.COLI SEQA PROTEIN COMPLEXED WITH HEMIMETHYLATED DNA
+1jj6	0	Testing the Water-Mediated Hin Recombinase DNA Recognition by Systematic Mutations.
+1jj8	0	Testing the Water-Mediated HIN Recombinase DNA Recognition by Systematic Mutations
+1jko	0	Testing the Water-Mediated HIN Recombinase DNA Recognition by Systematic Mutations
+1jkp	0	Testing the Water-Mediated HIN Recombinase DNA Recognition by Systematic Mutations
+1jkq	0	Testing the Water-Mediated HIN Recombinase DNA Recognition by Systematic Mutations
+1jkr	0	Testing the Water-Mediated HIN Recombinase DNA Recognition by Systematic Mutations
+1l2d	0	MutM (Fpg)-DNA Estranged Guanine Mismatch Recognition Complex
+1llm	1	Crystal Structure of a Zif23-GCN4 Chimera Bound to DNA
+1lmb	1	REFINED 1.8 ANGSTROM CRYSTAL STRUCTURE OF THE LAMBDA REPRESSOR-OPERATOR COMPLEX
+1m5x	0	Crystal structure of the homing endonuclease I-MsoI bound to its DNA substrate
+1mey	1	CRYSTAL STRUCTURE OF A DESIGNED ZINC FINGER PROTEIN BOUND TO DNA
+1oct	1	CRYSTAL STRUCTURE OF THE OCT-1 POU DOMAIN BOUND TO AN OCTAMER SITE: DNA RECOGNITION WITH TETHERED DNA-BINDING MODULES
+1omh	0	Conjugative Relaxase TrwC in complex with OriT Dna. Metal-free structure.
+1osb	0	Conjugative Relaxase TrwC in complex with OriT Dna. Metal-free structure.
+1oup	0	Crystal structure of the periplasmic endonuclease Vvn complexed with octamer double stranded DNA
+1owr	1	CRYSTAL STRUCTURE OF HUMAN NFAT1 BOUND MONOMERICALLY TO DNA
+1p7h	1	Structure of NFAT1 bound as a dimer to the HIV-1 LTR kB element
+1p8k	0	The structure and DNA recognition of a bifunctional homing endonuclease and group I intron splicing factor
+1pdn	1	CRYSTAL STRUCTURE OF A PAIRED DOMAIN-DNA COMPLEX AT 2.5 ANGSTROMS RESOLUTION REVEALS STRUCTURAL BASIS FOR PAX DEVELOPMENTAL MUTATIONS
+1per	1	THE COMPLEX BETWEEN PHAGE 434 REPRESSION DNA-BINDING DOMAIN AND OPERATOR SITE OR3: STRUCTURAL DIFFERENCES BETWEEN CONSENSUS AND NON-CONSENSUS HALF-SITES
+1pp7	1	Crystal structure of the T. vaginalis Initiator binding protein bound to the ferredoxin Inr
+1pue	1	PU.1 ETS DOMAIN-DNA COMPLEX
+1qx0	0	CONJUGATIVE RELAXASE TRWC IN COMPLEX WITH ORIT DNA. METAL-BOUND STRUCTURE
+1rep	0	CRYSTAL STRUCTURE OF REPLICATION INITIATOR PROTEIN REPE54 OF MINI-F PLASMID COMPLEXED WITH AN ITERON DNA
+1rpe	1	THE PHAGE 434 OR2/R1-69 COMPLEX AT 2.5 ANGSTROMS RESOLUTION
+1s6m	0	Conjugative Relaxase Trwc In Complex With Orit DNA. Metal-Bound Structure
+1svc	1	NFKB P50 HOMODIMER BOUND TO DNA
+1tqe	1	Mechanism of recruitment of class II histone deacetylases by myocyte enhancer factor-2
+1ttu	1	Crystal Structure of CSL bound to DNA
+1u3e	0	DNA binding and cleavage by the HNH homing endonuclease I-HmuI
+1ubd	1	CO-CRYSTAL STRUCTURE OF HUMAN YY1 ZINC FINGER DOMAIN BOUND TO THE ADENO-ASSOCIATED VIRUS P5 INITIATOR ELEMENT
+1uut	0	The Nuclease Domain of Adeno-Associated Virus Rep Complexed with the RBE' Stemloop of the Viral Inverted Terminal Repeat
+1vrr	0	Crystal structure of the restriction endonuclease BstYI complex with DNA
+1vtl	1	CO-CRYSTAL STRUCTURE OF TBP RECOGNIZING THE MINOR GROOVE OF A TATA ELEMENT
+1vtn	1	CO-CRYSTAL STRUCTURE OF THE HNF-3/FORK HEAD DNA-RECOGNITION MOTIF RESEMBLES HISTONE H5
+1yo5	1	Analysis of the 2.0A crystal structure of the protein-DNA complex of human PDEF Ets domain bound to the prostate specific antigen regulatory site
+1ysa	1	THE GCN4 BASIC REGION LEUCINE ZIPPER BINDS DNA AS A DIMER OF UNINTERRUPTED ALPHA HELICES: CRYSTAL STRUCTURE OF THE PROTEIN-DNA COMPLEX
+1z63	0	Sulfolobus solfataricus SWI2/SNF2 ATPase core in complex with dsDNA
+1zaa	1	ZINC FINGER-DNA RECOGNITION: CRYSTAL STRUCTURE OF A ZIF268-DNA COMPLEX AT 2.1 ANGSTROMS
+1zm5	0	Conjugative Relaxase TRWC in complex with ORIT dna, cooper-bound structure
+1zme	1	CRYSTAL STRUCTURE OF PUT3/DNA COMPLEX
+2a07	1	Crystal Structure of Foxp2 bound Specifically to DNA.
+2a3v	0	Structural basis for broad DNA-specificity in integron recombination
+2as5	1	Structure of the DNA binding domains of NFAT and FOXP2 bound specifically to DNA.
+2b9s	0	Crystal Structure of heterodimeric L. donovani topoisomerase I-vanadate-DNA complex
+2bgw	0	XPF from Aeropyrum pernix, complex with DNA
+2bnw	1	Structural basis for cooperative binding of Ribbon-Helix-Helix Omega repressor to direct DNA heptad repeats
+2bnz	1	Structural basis for cooperative binding of Ribbon-Helix-Helix Omega repressor to inverted DNA heptad repeats
+2c9l	1	Structure of the Epstein-Barr virus ZEBRA protein
+2cax	1	STRUCTURAL BASIS FOR COOPERATIVE BINDING OF RIBBON-HELIX-HELIX REPRESSOR OMEGA TO MUTATED DIRECT DNA HEPTAD REPEATS
+2cdm	0	The structure of TrwC complexed with a 27-mer DNA comprising the recognition hairpin and the cleavage site
+2fkc	0	Crystal Form I of Pre-Reactive Complex of Restriction Endonuclease HinP1I with Cognate DNA and Calcium Ion
+2fl3	0	Binary Complex of Restriction Endonuclease HinP1I with Cognate DNA
+2flc	0	Post-Reactive Complex of Restriction Endonuclease HinP1I with Nicked Cognate DNA and Magnesium Ions
+2fld	0	I-MsoI Re-Designed for Altered DNA Cleavage Specificity
+2hap	1	STRUCTURE OF A HAP1-18/DNA COMPLEX REVEALS THAT PROTEIN/DNA INTERACTIONS CAN HAVE DIRECT ALLOSTERIC EFFECTS ON TRANSCRIPTIONAL ACTIVATION
+2irf	1	CRYSTAL STRUCTURE OF AN IRF-2/DNA COMPLEX.
+2itl	0	The origin binding domain of the SV40 large T antigen bound to the functional pen palindrome DNA (23 bp)
+2nl8	0	The origin binding domain of the SV40 large T antigen bound non specifically to a 17 bp palindrome DNA (sites 1 and 3)
+2ntc	0	Crystal Structure of sv40 large T antigen origin binding domain with DNA
+2oaa	0	Restriction endonuclease MvaI-cognate DNA substrate complex
+2or1	1	RECOGNITION OF A DNA OPERATOR BY THE REPRESSOR OF PHAGE 434. A VIEW AT HIGH RESOLUTION
+2p0j	0	Structure of restriction endonuclease BstYI bound to non-cognate DNA
+2p5l	1	Crystal structure of a dimer of N-terminal domains of AhrC in complex with an 18bp DNA operator site
+2p6r	0	Crystal structure of superfamily 2 helicase Hel308 in complex with unwound DNA
+2q2k	0	Structure of nucleic-acid binding protein
+2qhb	0	Crystal structure of NgTRF complexed with telomeric DNA
+2qoj	0	Coevolution of a homing endonuclease and its host target sequence
+2r1j	1	Crystal Structure of the P22 c2 Repressor protein in complex with the synthetic operator 9T
+2ssp	0	LEUCINE-272-ALANINE URACIL-DNA GLYCOSYLASE BOUND TO ABASIC SITE-CONTAINING DNA
+2voa	0	Structure of an AP Endonuclease from Archaeoglobus fulgidus
+2xe0	0	Molecular basis of engineered meganuclease targeting of the endogenous human RAG1 locus
+2xsd	1	Crystal Structure of the dimeric Oct-6 (Pou3f1) POU domain bound to palindromic MORE DNA
+2ypf	0	Structure of the AvrBs3-DNA complex provides new insights into the initial thymine-recognition mechanism
+2yvh	1	Crystal structure of the operator-binding form of the multi-drug binding transcriptional repressor CgmR
+3a01	1	Crystal structure of Aristaless and Clawless homeodomains bound to DNA
+3brd	1	CSL (Lag-1) bound to DNA with Lin-12 RAM peptide, P212121
+3brg	1	CSL (RBP-Jk) bound to DNA
+3c25	0	Crystal Structure of NotI Restriction Endonuclease Bound to Cognate DNA
+3clc	1	Crystal Structure of the Restriction-Modification Controller Protein C.Esp1396I Tetramer in Complex with its Natural 35 Base-Pair Operator
+3co6	1	Crystal Structure of FoxO1 DBD Bound to DBE1 DNA
+3co7	1	Crystal Structure of FoxO1 DBD Bound to DBE2 DNA
+3coa	1	Crystal Structure of FoxO1 DBD Bound to IRE DNA
+3cro	1	THE PHAGE 434 CRO/OR1 COMPLEX AT 2.5 ANGSTROMS RESOLUTION
+3d1n	1	Structure of human Brn-5 transcription factor in complex with corticotrophin-releasing hormone gene promoter
+3dpg	0	SgrAI with noncognate DNA bound
+3dvo	0	SgrAI with cognate DNA and calcium bound
+3dw9	0	SgrAI with cognate DNA and manganese bound
+3e54	0	Archaeal Intron-encoded Homing Endonuclease I-Vdi141I Complexed With DNA
+3ere	1	Crystal structure of the arginine repressor protein from Mycobacterium tuberculosis in complex with the DNA operator
+3f27	1	Structure of Sox17 Bound to DNA
+3fc3	0	Crystal structure of the beta-beta-alpha-Me type II restriction endonuclease Hpy99I
+5av5	0	Histone H3.1
+5av6	0	Histone H3.1
+5av8	0	Histone H3.1
+5av9	0	Histone H3.1
+5avb	0	Histone H3.1
+5avc	0	Histone H3.1
+5axw	0	CRISPR-associated endonuclease Cas9
+5ay8	0	Histone H3.3
+5b0y	0	Histone H3.2
+5b0z	0	Histone H3.2
+5b1l	0	Histone H3.1
+5b1m	0	Histone H3.1
+5b2i	0	Histone H3.1
+5b2j	0	Histone H3.1
+3fd2	0	Crystal structure of mMsoI/DNA complex with calcium
+3g0r	0	Complex of Mth0212 and an 8bp dsDNA with distorted ends
+3ga6	0	Mth0212 in complex with two DNA helices
+3gfi	1	Crystal structure of ST1710 complexed with its promoter DNA
+3gox	0	Crystal structure of the beta-beta-alpha-Me type II restriction endonuclease Hpy99I in the absence of EDTA
+3gxq	1	Structure of ArtA and DNA complex
+3gz6	1	Crystal structure of Shewanella oneidensis NrtR complexed with a 27mer DNA
+3hqf	0	Crystal structure of restriction endonuclease EcoRII N-terminal effector-binding domain in complex with cognate DNA
+3hts	1	HEAT SHOCK TRANSCRIPTION FACTOR/DNA COMPLEX
+3i0w	0	Crystal structure of Clostridium acetobutylicum 8-oxoguanine glycosylase/lyase in complex with dsDNA containing cytosine opposite to 8-oxoG
+3i0x	0	Crystal structure of Clostridium acetobutylicum 8-oxoguanine glycosylase/lyase in complex with dsDNA containing adenine opposite to 8-oxoG
+3igm	1	A 2.2A crystal structure of the AP2 domain of PF14_0633 from P. falciparum, bound as a domain-swapped dimer to its cognate DNA
+3jx7	0	Bacillus cereus alkylpurine DNA glycosylase AlkD bound to DNA containing a 3-METHYLADENINE analog
+3jxb	1	Crystal structure of the P22 c2 repressor protein in complex with synthetic operator 9C
+3jxc	1	Crystal structure of the P22 c2 repressor protein in complex with synthetic operator 9T in the presence of Tl+
+3jxd	1	Crystal structure of the P22 c2 repressor protein in complex with synthetic operator 9C in the presence of Rb+
+3jxy	0	Bacillus cereus Alkylpurine DNA Glycosylase AlkD Bound to DNA Containing a GT Mismatch
+3jxz	0	Bacillus cereus Alkylpurine DNA Glycosylase AlkD Bound to DNA Containing an Abasic Site (across from T)
+3jy1	0	Bacillus cereus Alkylpurine DNA Glycosylase AlkD Bound to DNA Containing an Abasic Site (across from C)
+3kde	0	Crystal structure of the THAP domain from D. melanogaster P-element transposase in complex with its natural DNA binding site
+3ko2	0	I-MsoI re-designed for altered DNA cleavage specificity (-7C)
+3ldy	0	An extraordinary mechanism of DNA perturbation exhibited by the rare-cutting HNH restriction endonuclease PacI
+3lsr	1	Crystal structure of DesT in complex with duplex DNA
+3m4a	0	Crystal structure of a bacterial topoisomerase IB in complex with DNA reveals a secondary DNA binding site
+3m7k	0	Crystal structure of PacI-DNA Enzyme product complex
+3mip	0	I-MsoI re-designed for altered DNA cleavage specificity (-8GCG)
+3mis	0	I-MsoI re-designed for altered DNA cleavage specificity (-8G)
+3mq6	0	Domain swapped SgrAI with DNA and calcium bound
+3mqy	0	SgrAI with cleaved DNA and Magnesium bound
+3mva	0	Crystal structure of human MTERF1 bound to the termination sequence
+3mvb	0	Crystal structure of a triple RFY mutant of human MTERF1 bound to the termination sequence
+3mx4	0	DNA binding and cleavage by the GIY-YIG endonuclease R.Eco29KI inactive variant E142Q
+3mx9	0	Molecular basis of engineered meganuclease targeting of the endogenous human RAG1 locus
+3mxa	0	Molecular basis of engineered meganuclease targeting of the endogenous human RAG1 locus
+3mxb	0	Molecular basis of engineered meganuclease targeting of the endogenous human RAG1 locus
+3n78	0	SgrAI bound to Secondary Site DNA and Mg(II)
+3n7b	0	SgrAI bound to secondary site DNA and Ca(II)
+3nic	0	DNA binding and cleavage by the GIY-YIG endonuclease R.Eco29kI inactive variant Y49F
+3odh	0	Structure of OkrAI/DNA complex
+3oqg	0	Restriction endonuclease HPY188I in complex with substrate DNA
+3osf	1	The structure of protozoan parasite Trichomonas vaginalis Myb2 in complex with MRE-2f-13 DNA
+3osg	1	The structure of protozoan parasite Trichomonas vaginalis Myb2 in complex with MRE-1-12 DNA
+3qe9	0	Crystal structure of human exonuclease 1 Exo1 (D173A) in complex with DNA (complex I)
+3qeb	0	Crystal structure of human exonuclease 1 Exo1 (WT) in complex with DNA and Mn2+ (complex III)
+3qfq	0	Asymmetric Assembly of Merkel Cell Polyomavirus Large T-antigen Origin Binding Domains at the Viral Origin
+3qqy	0	Crystal structure of a novel LAGLIDADG homing endonuclease, I-OnuI (from Ophiostoma novo-ulmi subsp. americana)
+3qrf	1	Structure of a domain-swapped FOXP3 dimer
+3qws	1	Structure of N15 Cro complexed with consensus operator DNA
+3r7p	0	The crystal structure of I-LtrI
+3rmp	0	Structural basis for the recognition of attP substrates by P4-like integrases
+3s8q	1	Crystal structure of the R-M controller protein C.Esp1396I OL operator complex
+3sqi	0	DNA binding domain of Ndc10
+3u2b	1	Structure of the Sox4 HMG domain bound to DNA
+3u3w	1	Crystal Structure of Bacillus thuringiensis PlcR in complex with the peptide PapR7 and DNA
+3ufd	1	C.Esp1396I bound to its highest affinity operator site OM
+3uk3	1	Crystal structure of ZNF217 bound to DNA
+3uvf	0	Expanding LAGALIDADG endonuclease scaffold diversity by rapidly surveying evolutionary sequence space
+3v1z	0	Crystal structure of Type IIF restriction endonuclease Bse634I with cognate DNA
+3v21	0	Crystal structure of Type IIF restriction endonuclease Bse634I with cognate DNA
+3v6t	1	Crystal structure of the DNA-bound dHax3, a TAL effector, at 1.85 angstrom
+3vd6	1	Both Zn Fingers of GATA1 Bound to Palindromic DNA Recognition Site, P21 Crystal Form
+3vek	1	Both Zn Fingers of GATA1 Bound to Palindromic DNA Recognition Site, P1 Crystal Form
+3vok	1	X-ray Crystal Structure of Wild Type HrtR in the Apo Form with the Target DNA.
+3vw3	0	Antibody 64M-5 Fab in complex with a double-stranded DNA (6-4) photoproduct
+3vw4	0	Crystal structure of the DNA-binding domain of ColE2-P9 Rep in complex with the replication origin
+3w6v	1	Crystal structure of the DNA-binding domain of AdpA, the global transcriptional factor, in complex with a target DNA
+3zh2	0	Structure of Plasmodium falciparum lactate dehydrogenase in complex with a DNA aptamer
+3zhm	1	N-terminal domain of the CI repressor from bacteriophage TP901-1 in complex with the OL2 operator half-site
+3zpl	1	Crystal structure of Sco3205, a MarR family transcriptional regulator from Streptomyces coelicolor, in complex with DNA
+3zqc	1	Structure of the Trichomonas vaginalis Myb3 DNA-binding domain bound to a promoter sequence reveals a unique C-terminal beta-hairpin conformation
+3zql	1	DNA-bound form of TetR-like repressor SimR
+4ail	0	Crystal Structure of an Evolved Replicating DNA Polymerase
+4b5f	0	Substrate bound Neisseria AP endonuclease in absence of metal ions (crystal form 1)
+4b5g	0	Substrate bound Neisseria AP endonuclease in absence of metal ions (crystal form 2)
+4b5i	0	Product complex of Neisseria AP endonuclease in presence of metal ions
+4b5j	0	Neisseria AP endonuclease bound to the substrate with an orphan Adenine base
+4b5m	0	Neisseria AP endonuclease bound to the substrate with a cytosine orphan base
+4bhk	1	Crystal Structure of Moss Leafy bound to DNA
+4cja	1	BurrH DNA-binding protein from Burkholderia rhizoxinica in complex with its target DNA
+4e0g	0	Protelomerase tela/DNA hairpin product/vanadate complex
+4e0j	0	Protelomerase tela R255A mutant complexed with DNA hairpin product
+4efj	0	Crystal structure of I-GzeII LAGLIDADG homing endonuclease in complex with DNA target site
+4ejy	0	Structure of MBOgg1 in complex with high affinity DNA ligand
+4f2j	1	Crystal structure of ZNF217 bound to DNA, P6522 crystal form
+4f41	0	Protelomerase TelA mutant R255A complexed with CTTG hairpin DNA
+4f43	0	Protelomerase TelA mutant R255A complexed with CAAG hairpin DNA
+4fth	1	Crystal Structure of NtrC4 DNA-binding domain bound to double-stranded DNA
+4fzx	0	Exonuclease X in complex with 3' overhanging duplex DNA
+4g92	1	CCAAT-binding complex from Aspergillus nidulans with DNA
+4gjp	1	Crystal structure of the TAL effector dHax3 bound to dsDNA containing repetitive methyl-CpG
+4gjr	1	Crystal structure of the TAL effector dHax3 bound to methylated dsDNA
+4gle	0	SacUVDE in complex with 6-4PP-containing DNA
+4hp1	0	Crystal structure of Tet3 in complex with a non-CpG dsDNA
+4hqe	1	The crystal structure of QsrR-DNA complex
+4ht4	0	Molecular Basis of Vancomycin Resistance Transfer in Staphylococcus aureus
+4i2o	1	The Structure of FixK2 from Bradyrhizobium japonicum
+4i8t	1	C.Esp1396I bound to a 19 base pair DNA duplex
+4ihv	1	Crystal structure of Fis bound to 27 bp sequence DNA F28 (AAATTTGTTTGAGCGTTGAGCAAATTT)
+4ihw	1	Crystal structure of Fis bound to 27 bp Inosine substituted DNA F28-dI (AAATTTGTTTGAICITTGAGCAAATTT)
+4ihx	1	Crystal structure of Fis bound to 27 bp 2-Aminopurine substituted DNA F28-2AP (AAATTTGTTTGA2T2TTGAGCAAATTT)
+4ihy	1	Crystal structure of Fis bound to 27bp Inosine substituted DNA F29-dI (AAATTTGTTTGIICICTGAGCAAATTT)
+4is1	1	Crystal structure of ZNF217 bound to DNA
+4itq	0	Crystal structure of hypothetical protein SCO1480 bound to DNA
+4iwr	1	C.Esp1396I bound to a 25 base pair operator site
+4j00	1	Crystal Structure of Fischerella Transcription Factor HetR complexed with 24mer DNA target
+4jcx	1	Crystal structure of the Restriction-Modification Controller Protein C.Csp231I OL operator complex
+4jcy	1	Crystal structure of the Restriction-Modification Controller Protein C.Csp231I OR operator complex
+4jl3	1	Crystal structure of ms6564-dna complex
+4jqd	1	Crystal structure of the Restriction-Modification Controller Protein C.Csp231I OL operator complex
+4l5r	0	Crystal structure of p202 HIN1 in complex with 20-mer dsDNA
+4l62	1	Crystal Structure of Pseudomonas aeruginosa transcriptional regulator PA2196 bound to its operator DNA
+4lln	1	Crystal structure of S. aureus MepR-DNA complex
+4lox	0	Crystal structure of the I-SmaMI LAGLIDADG homing endonuclease bound to cleaved DNA
+4lq0	0	Crystal structure of the I-LtrWI LAGLIDADG homing endonuclease bound to target DNA.
+4m8b	1	Fungal Protein
+4nhj	1	Crystal structure of Klebsiella pneumoniae RstA DNA-binding domain in complex with RstA box
+4oln	0	Ancestral Steroid Receptor 1 in complex with estrogen response element DNA
+4on0	1	Crystal Structure of NolR from Sinorhizobium fredii in complex with oligo AA DNA
+4ond	1	Ancestral Steroid Receptor 2 DBD helix mutant - ERE DNA complex
+4oor	1	Ancestral Steroid Receptor 2 DNA binding domain in complex with a steroid response element
+4osh	1	Crystal structure of the TAL effector dHax3 with NI RVD at 2.2 angstrom resolution
+4osi	1	Crystal structure of the TAL effector dHax3 with NI RVD at 2.8 angstrom resolution
+4osj	1	Crystal structure of TAL effector reveals the recognition between asparagine and adenine
+4osk	1	Crystal structure of TAL effector reveals the recognition between asparagine and guanine
+4osl	1	Crystal structure of TAL effector reveals the recognition between histidine and guanine
+4osm	1	Crystal structure of the S505H mutant of TAL effector dHax3
+4osq	1	Crystal structure of the S505R mutant of TAL effector dHax3
+4osr	1	Crystal structure of the S505K mutant of TAL effector dHax3
+4oss	1	Crystal structure of the S505Q mutant of TAL effector dHax3
+4ost	1	Crystal structure of the S505C mutant of TAL effector dHax3
+4osv	1	Crystal structure of the S505M mutant of TAL effector dHax3
+4osw	1	Crystal structure of the S505E mutant of TAL effector dHax3
+4osz	1	Crystal structure of the S505P mutant of TAL effector dHax3
+4ot0	1	Crystal structure of the S505T mutant of TAL effector dHax3
+4ot3	1	Crystal structure of the S505L mutant of TAL effector dHax3
+4oto	1	Crystal structure of the S505W mutant of TAL effector dHax3
+4ov7	1	Ancestral Steroid Receptor 2 DBD helix mutant - SRE DNA complex
+4p4p	0	Crystal structure of Leishmania infantum polymerase beta: Nick complex
+4par	0	The 5-Hydroxymethylcytosine-Specific Restriction Enzyme AbaSI in a Complex with Product-like DNA
+4pcb	0	Conjugative Relaxase TrwC in complex with mutant OriT Dna
+4rb2	1	Crystal structure of Magnetospirillum gryphiswaldense MSR-1 SeMet-Fur-Mn2+-feoAB1 operator
+4rb3	1	Crystal structure of Magnetospirillum gryphiswaldense MSR-1 Fur-Mn2+-feoAB1 operator
+4rd5	0	Crystal structure of R.NgoAVII restriction endonuclease B3 domain with cognate DNA
+4rdm	0	Crystal structure of R.NgoAVII restriction endonuclease B3 domain with cognate DNA
+4rkh	1	Structure of the MSL2 CXC domain bound with a specific MRE sequence
+4s2q	1	Crystal Structure of HMG domain of the chondrogenesis master regulator, Sox9 in complex with ChIP-Seq identified DNA element
+4tmu	0	Crystal structure of RecQ catalytic core from C. sakazakii bound to DNA
+4un3	0	Crystal structure of Cas9 bound to PAM-containing DNA target
+4un4	0	Crystal structure of Cas9 bound to PAM-containing DNA target with mismatches at positions 1-2
+4un5	0	Crystal structure of Cas9 bound to PAM-containing DNA target containing mismatches at positions 1-3
+4ux5	1	Structure of DNA complex of PCG2
+4wu4	1	Crystal structure of E. faecalis DNA binding domain LiaRD191N complexed with 22bp DNA
+4wuh	1	Crystal structure of E. faecalis DNA binding domain LiaR wild type complexed with 22bp DNA
+4wul	1	Crystal structure of E. faecalis DNA binding domain LiaRD191N complexed with 26bp DNA
+4x4b	0	RADIATION DAMAGE TO THE NUCLEOPROTEIN COMPLEX C.Esp1396I: DOSE (DWD) 2.1 MGy
+4x4c	0	RADIATION DAMAGE TO THE NUCLEOPROTEIN COMPLEX C.Esp1396I: DOSE (DWD) 6.2 MGy
+4x4d	0	RADIATION DAMAGE TO THE NUCLEOPROTEIN COMPLEX C.Esp1396I: DOSE (DWD) 10.3 MGy
+4x4e	0	RADIATION DAMAGE TO THE NUCLEOPROTEIN COMPLEX C.Esp1396I: DOSE (DWD) 14.4 MGy
+4x4f	0	RADIATION DAMAGE TO THE NUCLEOPROTEIN COMPLEX C.Esp1396I: DOSE (DWD) 20.6 MGy
+4x4g	0	RADIATION DAMAGE TO THE NUCLEOPROTEIN COMPLEX C.Esp1396I: DOSE (DWD) 26.8 MGy
+4x4h	0	RADIATION DAMAGE TO THE NUCLEOPROTEIN COMPLEX C.Esp1396I: DOSE (DWD) 35.7 MGy
+4x4i	0	RADIATION DAMAGE TO THE NUCLEOPROTEIN COMPLEX C.Esp1396I: DOSE (DWD) 44.6 MGy
+4xqk	0	ATP-dependent Type ISP restriction-modification enzyme LlaBIII bound to DNA
+4y60	1	Structure of SOX18-HMG/PROX1-DNA
+4yhx	0	Crystal Structure of LAGLIDADG Meganuclease I-GpeMI Bound to Uncleaved DNA
+4yis	0	Crystal Structure of LAGLIDADG Meganuclease I-CpaMI Bound to Uncleaved DNA
+4z1x	0	Crystal structure of LAGLIDADG homing endonuclease I-GzeII in complex with DNA target
+5b2r	0	Crystal structure of the Streptococcus pyogenes Cas9 VQR variant in complex with sgRNA and target DNA (TGA PAM)
+5b2s	0	Crystal structure of the Streptococcus pyogenes Cas9 EQR variant in complex with sgRNA and target DNA (TGAG PAM)
+5b2t	0	Crystal structure of the Streptococcus pyogenes Cas9 VRER variant in complex with sgRNA and target DNA (TGCG PAM)
+5bmz	1	Crystal Structure of Putative MarR Family Transcriptional Regulator HcaR from Acinetobacter sp. ADP complexed with 24mer DNA.
+5cky	0	Crystal Structure of the MTERF1 R162A substitution bound to the termination sequence.
+5cl3	0	Alkylpurine DNA glycosylase AlkD bound to DNA containing a 3-methyladenine analog (100% substrate at 4 hours)
+5cnq	0	Crystal structure of the Holliday junction-resolving enzyme GEN1 (WT) in complex with product DNA, Mg2+ and Mn2+ ions
+5co0	0	Crystal Structure of the MTERF1 Y288A substitution bound to the termination sequence.
+5co8	0	Crystal structure of the Holliday junction-resolving enzyme GEN1 (WT) in complex with product DNA and Mg2+ ion
+5crj	0	Crystal Structure of the MTERF1 F322A substitution bound to the termination sequence.
+5crk	0	Crystal Structure of the MTERF1 F243A substitution bound to the termination sequence.
+5d23	1	The crystal structure of STPR from Bombyx mori in complex with 13-bp DNA derived from the +290 site of fibroin gene
+5d2q	1	Crystal structure of STPR from Bombyx Mori in complex with 20-bp DNA derived from +290 site of the fibroin gene
+5d2s	1	Crystal structure of STPR from Bombyx mori in complex with 18-bp DNA containing four repetitive units of ATAC
+5d5u	1	Crystal structure of human Hsf1 with HSE DNA
+5d5v	1	Crystal structure of human Hsf1 with Satellite III repeat DNA
+5d5w	1	Crystal structure of Chaetomium thermophilum Skn7 with HSE DNA
+5d5x	1	Crystal structure of Chaetomium thermophilum Skn7 with SSRE DNA
+5d8k	1	Human HSF2 DNA-Binding Domain bound to 2-site HSE DNA at 1.73 Angstroms Resolution
+5d8l	1	Human HSF2 DNA Binding Domain in complex with 3-site HSE DNA at 2.1 Angstroms Resolution
+5dy0	1	Crystal of AmtR from Corynebacterium glutamicum in complex with DNA
+5e5o	0	I-SmaMI bound to uncleaved DNA target in the presence of Calcium ions
+5ed4	1	Structure of a PhoP-DNA complex
+5eg6	1	CSL-RITA complex bound to DNA
+5eh2	0	Human PRDM9 allele-A ZnF Domain with Associated Recombination Hotspot DNA Sequence III
+5ei9	0	Human PRDM9 allele-A ZnF Domain with Associated Recombination Hotspot DNA Sequence I
+5exh	0	Crystal structure of mTET3-CXXC domain in complex with 5-carboxylcytosine DNA at 1.3 Angstroms resolution.
+5ffj	0	Structure of a nuclease-deletion mutant of the Type ISP restriction-modification enzyme LlaGI in complex with a DNA substrate mimic
+5fq5	0	Crystal structure of Cas9-sgRNA-DNA complex solved by native SAD phasing
+5fw1	0	Crystal structure of SpyCas9 variant VQR bound to sgRNA and TGAG PAM target DNA
+5fw2	0	Crystal structure of SpCas9 variant EQR bound to sgRNA and TGAG PAM target DNA
+5gpc	1	Structural analysis of fatty acid degradation regulator FadR from Bacillus halodurans
+5gxq	0	The crystal structure of the nucleosome containing H3.6
+5hlg	1	
+5hlh	1	
+5hlt	0	
+5hnf	0	
+5hnh	0	
+5hr9	0	
+5hrb	0	
+5hrd	0	
+5hre	0	
+5hrg	0	
+5hto	0	Crystal structure of Plasmodium Vivax LDH in complex with a DNA aptamer called pL1 (tetrameric LDH in an asymmetric unit)
+5iff	0	Crystal structure of R.PabI-nonspecific DNA complex
+5j2y	1	Molecular insight into the regulatory mechanism of the quorum-sensing repressor RsaL in Pseudomonas aeruginosa
+5jub	1	Crystal structure of ComR from S.thermophilus in complex with DNA and its signalling peptide ComS.
+5k1y	0	P2(1) Structure of pNOB8 AspA-DNA complex
+5k5q	0	Structure of AspA-DNA complex: novel centromere bindng protein-centromere complex
+5krb	1	GCNF DNA Binding Domain - Oct4 DR0 Complex
+5l6l	1	Structure of Caulobacter crescentus VapBC1 bound to operator DNA
+5lty	1	Homeobox transcription factor CDX2 bound to methylated DNA
+5o63	0	Crystal structure of UbaLAI restriction endonuclease B3 domain domain (mutant L24M L53M L95M) with cognate DNA
+5tw1	0	DNA-directed RNA polymerase subunit alpha
+5tzv	0	DNA polymerase beta
+5u30	0	CRISPR-associated endonuclease Cas12b
+5u31	0	CRISPR-associated endonuclease Cas12b
+5u8g	0	DNA polymerase beta
+5u8h	0	DNA polymerase beta
+5u8i	0	DNA polymerase beta
+5u9h	0	DNA polymerase beta
+5ulx	0	DNA polymerase iota
+5um9	0	Flap endonuclease 1
+5t2h	0	Engineered variant of I-OnuI meganuclease targeting the Human TCRa gene; harbors 43 point mutations relative to wild-type I-OnuI
+5t2n	0	Engineered variant of I-OnuI meganuclease targeting the Anopheles AGAP007280 gene; harbors 38 point mutations relative to wild-type I-OnuI
+5t2o	0	Engineered variant of I-OnuI meganuclease targeting the Anopheles AGAP011377 gene; harbors 53 point mutations relative to wild-type I-OnuI
+5t8d	0	Engineered variant of I-OnuI meganuclease targeting the HIV integrase gene; harbors 47 point mutations relative to wild-type I-OnuI
+5tgx	0	
+5th3	0	
+5uzv	0	
+5v04	0	
+5v05	0	
+5v06	0	
+5v07	0	
+5v1g	0	DNA polymerase beta
+5v1h	0	DNA polymerase beta
+5v1i	0	DNA polymerase beta
+5v1j	0	DNA polymerase beta
+5v1o	0	DNA polymerase beta
+5va0	1	Glucocorticoid receptor
+5va7	1	Glucocorticoid receptor
+5vi8	0	DNA-directed RNA polymerase subunit alpha
+5voi	0	DNA-directed RNA polymerase subunit alpha
+5vs0	0	DNA polymerase beta
+5vs4	0	DNA polymerase beta
+5v08	0	
+5v0b	0	
+5v0c	0	
+5v0d	0	
+5v0e	0	
+5x07	1	
+5x2g	0	CRISPR-associated endonuclease Cas9
+5x2h	0	CRISPR-associated endonuclease Cas9
+5x6d	0	Listeriolysin regulatory protein
+5x7x	0	Histone H3.3
+5xh6	0	CRISPR-associated endonuclease Cas12a
+5xh7	0	CRISPR-associated endonuclease Cas12a
+5xus	0	
+5xut	0	
+5xuu	0	
+5xuz	0	
+6pax	1	Paired box protein Pax-6
+7ice	0	DNA polymerase beta
+7icg	0	DNA polymerase beta
+7ich	0	DNA polymerase beta
+7ici	0	DNA polymerase beta
+7ick	0	DNA polymerase beta
+7icm	0	DNA polymerase beta
+7icn	0	DNA polymerase beta
+7icp	0	DNA polymerase beta
+7icq	0	DNA polymerase beta
+7icr	0	DNA polymerase beta
+7ics	0	DNA polymerase beta
+7ict	0	DNA polymerase beta
+7icv	0	DNA polymerase beta
+8icc	0	DNA polymerase beta
+8ici	0	DNA polymerase beta
+8icm	0	DNA polymerase beta
+8icq	0	DNA polymerase beta
+9ant	1	Homeotic protein antennapedia
+9ick	0	DNA polymerase beta
+9icl	0	DNA polymerase beta
+9icm	0	DNA polymerase beta
+9ico	0	DNA polymerase beta
+9icw	0	DNA polymerase beta
+9icx	0	DNA polymerase beta
+9icy	0	DNA polymerase beta

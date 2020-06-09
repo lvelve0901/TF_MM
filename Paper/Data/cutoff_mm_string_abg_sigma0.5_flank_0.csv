@@ -1,0 +1,11 @@
+mismatch,beta,gamma,zeta
+GT,Pos,0,0
+AC,0,0,0
+CT,0,0,Pos
+TT,0,0,Pos
+CC,0,0,Pos
+AA,0,0,Neg
+GA,0,0,Neg
+GA*syn,0,0,0
+G*Gsyn,0,0,0
+GG*syn,0,0,0

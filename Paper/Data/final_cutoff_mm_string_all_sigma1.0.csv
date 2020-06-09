@@ -1,0 +1,11 @@
+mismatch,shear,stretch,stagger,buckle,propeller,opening,shift,slide,rise,tilt,roll,twist,c1c1_dist,beta(-1.0),gamma(-1.0),zeta(-1.0),beta(0.0),gamma(0.0),zeta(0.0),beta(1.0),gamma(1.0),zeta(1.0),minorgw(-2.0),majorgw(-2.0),minorgw(-1.0),majorgw(-1.0),minorgw(0.0),majorgw(0.0),minorgw(1.0),majorgw(1.0)
+GT,Neg,Neg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Pos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AC,Neg,Neg,0.0,Pos,0.0,Neg,Pos,0.0,0.0,0.0,0.0,Pos,Pos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CT,0.0,Neg,0.0,0.0,0.0,Pos,0.0,0.0,0.0,Pos,0.0,0.0,Neg,0,0,0,0,0,0,0,0,0,0,0,Neg,0,Neg,0,0,0
+TT,Pos/Neg,Neg,0.0,0.0,Neg,Pos,0.0,0.0,0.0,Pos,0.0,0.0,Neg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CC,Neg,Neg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Pos,0.0,Pos,Neg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AA,Pos/Neg,Pos,0.0,0.0,0.0,Pos,0.0,0.0,0.0,0.0,0.0,Neg,Pos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,0.0,Pos,Neg,0.0,0.0,Neg,Pos,0.0,0.0,0.0,0.0,0.0,Pos,0,0,0,0,0,0,0,0,0,0,0,Pos,0,Pos,0,0,0
+GA*syn,,,,,,,,,,,,,Pos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+G*Gsyn,,,,,,,,,,,,,Pos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GG*syn,,,,,,,,,,,,,Pos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,44 @@
+tf,pdbid,pairid,isHbond,isVdw,param,count
+CTCF,5t00,5t00_AT_B_DA_2_C_DT_16,False,True,opening,1
+CTCF,5t00,5t00_CG_B_DC_6_C_DG_12,True,True,zeta(0.0),1
+CTCF,5t00,5t00_CG_B_DC_7_C_DG_11,True,True,zeta(-1.0),1
+CTCF,5t00,5t00_Gc_B_DG_5_C_5CM_13,True,True,zeta(1.0),1
+CTCF,5t00,5t00_cG_B_5CM_4_C_DG_14,True,True,stretch c1c1_dist,2
+Egr1,1p47,1p47_TA_C_DT_7_D_DA_58,False,True,tilt,1
+Ets1,1k79,1k79_CG_B_DC_6_C_DG_11,False,False,tilt,1
+GR,1r4r,1r4r_AT_C_DA_3_D_DT_18,False,False,opening c1c1_dist,2
+GR,1r4r,1r4r_AT_C_DA_5_D_DT_16,False,False,shift,1
+GR,1r4r,1r4r_AT_C_DA_6_D_DT_15,False,True,shear stretch opening c1c1_dist,4
+GR,1r4r,1r4r_AT_C_DA_8_D_DT_13,False,True,shear stretch c1c1_dist twist,4
+GR,1r4r,1r4r_CG_C_DC_16_D_DG_5,False,False,shear stretch,2
+GR,1r4r,1r4r_CG_C_DC_18_D_DG_3,False,False,shear stretch stagger opening shift,5
+GR,1r4r,1r4r_GC_C_DG_10_D_DC_11,False,False,shear stretch,2
+GR,1r4r,1r4r_TA_C_DT_12_D_DA_9,False,False,shear,1
+GR,1r4r,1r4r_TA_C_DT_17_D_DA_4,False,False,c1c1_dist shift,2
+Max-Max,1an2,1an2_AT_B_DA_10_B_DT_13,False,True,stretch stagger rise,3
+Max-Max,1an2,1an2_AT_B_DA_15_B_DT_8,False,False,stagger,1
+Max-Max,1an2,1an2_GC_B_DG_12_B_DC_11,True,True,rise,1
+Max-Max,1an2,1an2_GC_B_DG_14_B_DC_9,True,True,tilt,1
+Max-Max,1an2,1an2_TA_B_DT_13_B_DA_10,False,True,stretch stagger,2
+Max-Max,1an2,1an2_TA_B_DT_8_B_DA_15,False,False,stagger tilt,2
+RelA,5u01,5u01_AT_E_DA_207_F_DT_220,False,True,stagger,1
+RelA,5u01,5u01_AT_E_DA_218_F_DT_209,False,True,stagger,1
+RelA,5u01,5u01_CG_E_DC_212_F_DG_215,True,True,stagger,1
+RelA,5u01,5u01_GC_E_DG_204_F_DC_223,True,True,stagger,1
+RelA,5u01,5u01_GC_E_DG_214_F_DC_213,True,True,stagger shift,2
+RelA,5u01,5u01_GC_E_DG_224_F_DC_203,True,True,stagger shift,2
+RelA,5u01,5u01_TA_E_DT_209_F_DA_218,False,False,stagger,1
+RelA,5u01,5u01_TA_E_DT_220_F_DA_207,False,True,stagger,1
+TBP,1qne,1qne_AT_C_DA_204_D_DT_225,False,True,buckle c1c1_dist roll minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(0.0) beta(1.0) zeta(0.0) zeta(1.0),10
+TBP,1qne,1qne_AT_C_DA_206_D_DT_223,True,True,roll twist minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),12
+TBP,1qne,1qne_AT_C_DA_207_D_DT_222,True,True,roll twist minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),12
+TBP,1qne,1qne_AT_C_DA_208_D_DT_221,False,True,buckle roll minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),12
+TBP,1qne,1qne_AT_C_DA_209_D_DT_220,False,True,buckle c1c1_dist rise roll minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0),13
+TBP,1qne,1qne_CG_C_DC_202_D_DG_227,False,False,shear stretch minorgw(1.0),3
+TBP,1qne,1qne_GC_C_DG_210_D_DC_219,False,True,minorgw(-2.0) minorgw(-1.0) minorgw(0.0) beta(-1.0) beta(0.0) zeta(-1.0),6
+TBP,1qne,1qne_TA_C_DT_203_D_DA_226,False,True,c1c1_dist rise tilt roll twist minorgw(0.0) minorgw(1.0) beta(1.0) zeta(1.0),9
+TBP,1qne,1qne_TA_C_DT_205_D_DA_224,False,True,slide minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),11
+p53,3kz8,3kz8_AT_C_DA_15_C_DT_6,False,True,c1c1_dist,1
+p53,3kz8,3kz8_AT_C_DA_5_C_DT_16,False,True,c1c1_dist,1
+p53,3kz8,3kz8_TA_C_DT_16_C_DA_5,False,True,c1c1_dist,1
+p53,3kz8,3kz8_TA_C_DT_6_C_DA_15,False,True,c1c1_dist,1

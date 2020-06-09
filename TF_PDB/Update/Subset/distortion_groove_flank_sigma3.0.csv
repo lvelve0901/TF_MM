@@ -1,0 +1,12 @@
+tf,sequence_star,resi,flank,pdbid,pairid,isHbond,isVdw,param,value
+TBP,ACTATA*AAAAGTTC,5,-2,1qne,1qne_AT_C_DA_206_D_DT_223,True,True,minorgw,16.355
+TBP,ACTATA*AAAAGTTC,5,-1,1qne,1qne_AT_C_DA_206_D_DT_223,True,True,minorgw,17.912
+TBP,ACTATA*AAAAGTTC,5,0,1qne,1qne_AT_C_DA_206_D_DT_223,True,True,minorgw,18.648
+TBP,ACTATA*AAAAGTTC,5,1,1qne,1qne_AT_C_DA_206_D_DT_223,True,True,minorgw,17.674
+TBP,ACTATAAAAA*GTTC,8,-2,1qne,1qne_AT_C_DA_209_D_DT_220,False,True,minorgw,17.674
+TBP,ACTATAAAAA*GTTC,8,-1,1qne,1qne_AT_C_DA_209_D_DT_220,False,True,minorgw,15.983
+TBP,ACTATAAAAA*GTTC,8,0,1qne,1qne_AT_C_DA_209_D_DT_220,False,True,minorgw,13.561
+TBP,ACTATAAAAA*GTTC,8,1,1qne,1qne_AT_C_DA_209_D_DT_220,False,True,minorgw,10.235
+TBP,ACTATAAAAAG*TTC,9,-2,1qne,1qne_GC_C_DG_210_D_DC_219,False,True,minorgw,15.983
+TBP,ACTATAAAAAG*TTC,9,-1,1qne,1qne_GC_C_DG_210_D_DC_219,False,True,minorgw,13.561
+TBP,ACTATAAAAAG*TTC,9,0,1qne,1qne_GC_C_DG_210_D_DC_219,False,True,minorgw,10.235

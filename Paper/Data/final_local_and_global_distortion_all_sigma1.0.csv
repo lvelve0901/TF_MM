@@ -1,0 +1,124 @@
+tf,pdbid,pairid,isHbond,isVdw,param,count
+CTCF,5t00,5t00_AT_B_DA_2_C_DT_16,False,True,shear opening c1c1_dist minorgw(1.0),4
+CTCF,5t00,5t00_CG_B_DC_6_C_DG_12,True,True,shear buckle opening rise roll twist minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(-2.0) majorgw(0.0) majorgw(1.0) beta(-1.0) beta(0.0) zeta(-1.0) zeta(0.0) zeta(1.0),18
+CTCF,5t00,5t00_CG_B_DC_7_C_DG_11,True,True,stretch propeller opening c1c1_dist shift roll minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(-1.0) majorgw(0.0) beta(-1.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),17
+CTCF,5t00,5t00_CG_B_DC_8_C_DG_10,True,True,buckle propeller opening slide rise minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(-2.0) majorgw(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),16
+CTCF,5t00,5t00_GC_B_DG_3_C_DC_15,False,True,shear opening shift slide twist minorgw(0.0) minorgw(1.0) majorgw(1.0) beta(1.0) zeta(1.0),10
+CTCF,5t00,5t00_Gc_B_DG_5_C_5CM_13,True,True,stretch buckle opening slide tilt minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(-1.0) majorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),17
+CTCF,5t00,5t00_cG_B_5CM_4_C_DG_14,True,True,shear stretch c1c1_dist shift roll minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(0.0) beta(0.0) beta(1.0) zeta(0.0) zeta(1.0),13
+Creb,5zk1,5zk1_AT_B_DA_-2_B_DT_2,False,False,opening c1c1_dist slide minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(1.0),11
+Creb,5zk1,5zk1_AT_B_DA_4_B_DT_-4,False,True,stretch stagger shift twist minorgw(-2.0) minorgw(-1.0) minorgw(1.0) beta(-1.0),8
+Creb,5zk1,5zk1_CG_B_DC_-1_B_DG_1,False,True,stretch opening minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(0.0) zeta(1.0),11
+Creb,5zk1,5zk1_CG_B_DC_3_B_DG_-3,False,True,shear stretch opening c1c1_dist shift minorgw(-2.0) minorgw(-1.0) minorgw(0.0) beta(-1.0) beta(0.0),10
+Creb,5zk1,5zk1_GC_B_DG_-3_B_DC_3,False,True,shear stretch opening c1c1_dist twist minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(0.0) beta(1.0),10
+Creb,5zk1,5zk1_GC_B_DG_1_B_DC_-1,False,True,stretch opening slide minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0),12
+Creb,5zk1,5zk1_TA_B_DT_-4_B_DA_4,False,True,stretch stagger shift minorgw(-2.0) minorgw(0.0) minorgw(1.0) beta(1.0),7
+Creb,5zk1,5zk1_TA_B_DT_2_B_DA_-2,False,False,opening c1c1_dist twist minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0),11
+Egr1,1p47,1p47_CG_C_DC_11_D_DG_54,False,True,shear stretch stagger shift tilt roll minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(1.0) beta(-1.0) beta(0.0) zeta(-1.0) zeta(0.0) zeta(1.0),16
+Egr1,1p47,1p47_CG_C_DC_5_D_DG_60,False,True,shift roll minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(-2.0) majorgw(1.0) beta(0.0) beta(1.0) zeta(0.0) zeta(1.0),11
+Egr1,1p47,1p47_GC_C_DG_10_D_DC_55,True,True,stretch shift tilt twist minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),14
+Egr1,1p47,1p47_GC_C_DG_12_D_DC_53,True,True,opening slide minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(0.0) beta(-1.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),12
+Egr1,1p47,1p47_GC_C_DG_3_D_DC_62,False,True,shear shift twist minorgw(1.0) majorgw(0.0),5
+Egr1,1p47,1p47_GC_C_DG_4_D_DC_61,True,True,buckle opening shift rise twist minorgw(0.0) minorgw(1.0) majorgw(-1.0) beta(1.0) zeta(1.0),10
+Egr1,1p47,1p47_GC_C_DG_6_D_DC_59,True,True,shift roll twist minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(0.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),14
+Egr1,1p47,1p47_GC_C_DG_8_D_DC_57,True,True,stretch stagger buckle slide minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(-2.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),15
+Egr1,1p47,1p47_GC_C_DG_9_D_DC_56,True,True,stretch roll twist minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),13
+Egr1,1p47,1p47_TA_C_DT_7_D_DA_58,False,True,stagger buckle opening c1c1_dist shift tilt minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(-1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),17
+Elk1,1dux,1dux_AT_A_DA_3_B_DT_11,False,False,shear buckle shift slide tilt minorgw(1.0) zeta(1.0),7
+Elk1,1dux,1dux_AT_A_DA_8_B_DT_6,False,True,stretch buckle opening minorgw(-2.0) minorgw(-1.0) majorgw(-2.0) majorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),13
+Elk1,1dux,1dux_AT_A_DA_9_B_DT_5,False,False,buckle propeller opening c1c1_dist rise tilt roll minorgw(-2.0) majorgw(0.0) majorgw(1.0) beta(-1.0) beta(0.0) zeta(-1.0) zeta(0.0) zeta(1.0),15
+Elk1,1dux,1dux_CG_A_DC_4_B_DG_10,False,False,stagger rise tilt roll minorgw(0.0) minorgw(1.0) majorgw(1.0) zeta(0.0) zeta(1.0),9
+Elk1,1dux,1dux_CG_A_DC_5_B_DG_9,False,True,stretch buckle shift slide tilt minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(0.0) majorgw(1.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),14
+Elk1,1dux,1dux_GC_A_DG_6_B_DC_8,True,True,shear stretch stagger propeller opening shift tilt twist minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(-1.0) majorgw(0.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),19
+Elk1,1dux,1dux_GC_A_DG_7_B_DC_7,True,True,opening roll minorgw(-2.0) minorgw(-1.0) minorgw(0.0) majorgw(-2.0) majorgw(-1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),13
+Ets1,1k79,1k79_AT_B_DA_10_C_DT_7,True,True,stretch minorgw(-2.0) minorgw(-1.0) minorgw(1.0) majorgw(-2.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),11
+Ets1,1k79,1k79_AT_B_DA_11_C_DT_6,False,True,stretch propeller opening twist minorgw(-2.0) minorgw(0.0) beta(-1.0) beta(0.0) zeta(-1.0) zeta(0.0),10
+Ets1,1k79,1k79_CG_B_DC_6_C_DG_11,False,False,stagger buckle shift slide rise tilt roll minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),18
+Ets1,1k79,1k79_CG_B_DC_7_C_DG_10,False,True,stretch stagger buckle propeller c1c1_dist slide rise minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(0.0) majorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),19
+Ets1,1k79,1k79_GC_B_DG_8_C_DC_9,True,True,stretch propeller c1c1_dist shift tilt minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(-1.0) majorgw(0.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),17
+Ets1,1k79,1k79_GC_B_DG_9_C_DC_8,True,True,stretch c1c1_dist roll minorgw(-2.0) minorgw(-1.0) minorgw(0.0) majorgw(-2.0) majorgw(-1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),14
+GR,1r4r,1r4r_AT_C_DA_11_D_DT_10,False,False,shear stretch stagger buckle c1c1_dist slide twist majorgw(-2.0) majorgw(-1.0) majorgw(0.0) majorgw(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),14
+GR,1r4r,1r4r_AT_C_DA_3_D_DT_18,False,False,stagger opening c1c1_dist shift twist minorgw(1.0),6
+GR,1r4r,1r4r_AT_C_DA_5_D_DT_16,False,False,stretch propeller opening shift rise tilt minorgw(-1.0) minorgw(0.0),8
+GR,1r4r,1r4r_AT_C_DA_6_D_DT_15,False,True,shear stretch buckle propeller opening c1c1_dist shift tilt minorgw(-2.0) minorgw(-1.0) majorgw(1.0),11
+GR,1r4r,1r4r_AT_C_DA_8_D_DT_13,False,True,shear stretch stagger opening c1c1_dist shift slide roll twist majorgw(-1.0) majorgw(0.0) majorgw(1.0) gamma(1.0) zeta(0.0) zeta(1.0),15
+GR,1r4r,1r4r_CG_C_DC_16_D_DG_5,False,False,shear stretch stagger propeller opening rise tilt twist,8
+GR,1r4r,1r4r_CG_C_DC_18_D_DG_3,False,False,shear stretch stagger opening c1c1_dist shift slide twist,8
+GR,1r4r,1r4r_CG_C_DC_7_D_DG_14,True,True,opening c1c1_dist slide tilt twist minorgw(-2.0) majorgw(0.0) majorgw(1.0) zeta(1.0),9
+GR,1r4r,1r4r_GC_C_DG_10_D_DC_11,False,False,shear stretch stagger propeller c1c1_dist rise roll majorgw(-2.0) majorgw(-1.0) majorgw(0.0) majorgw(1.0) gamma(-1.0) zeta(-1.0) zeta(0.0) zeta(1.0),15
+GR,1r4r,1r4r_GC_C_DG_13_D_DC_8,True,True,shear stretch opening shift rise tilt majorgw(-2.0) majorgw(-1.0) zeta(-1.0),9
+GR,1r4r,1r4r_GC_C_DG_4_D_DC_17,False,True,shear stretch buckle opening shift tilt roll twist minorgw(0.0) minorgw(1.0),10
+GR,1r4r,1r4r_TA_C_DT_12_D_DA_9,False,False,shear buckle opening c1c1_dist slide twist majorgw(-2.0) majorgw(-1.0) majorgw(0.0) zeta(-1.0) zeta(0.0),11
+GR,1r4r,1r4r_TA_C_DT_14_D_DA_7,False,True,shear propeller opening majorgw(-2.0),4
+GR,1r4r,1r4r_TA_C_DT_15_D_DA_6,False,False,shear stretch propeller opening shift twist,6
+GR,1r4r,1r4r_TA_C_DT_17_D_DA_4,False,False,stretch stagger buckle c1c1_dist shift rise tilt roll,8
+GR,1r4r,1r4r_TA_C_DT_9_D_DA_12,False,False,shear stretch stagger buckle propeller c1c1_dist rise majorgw(-2.0) majorgw(-1.0) majorgw(0.0) majorgw(1.0) gamma(0.0) zeta(-1.0) zeta(0.0) zeta(1.0),15
+Max-Max,1an2,1an2_AT_B_DA_10_B_DT_13,False,True,shear stretch stagger buckle opening c1c1_dist shift rise roll minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),18
+Max-Max,1an2,1an2_AT_B_DA_15_B_DT_8,False,False,stretch stagger slide tilt minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),13
+Max-Max,1an2,1an2_CG_B_DC_11_B_DG_12,True,True,shear stretch opening rise roll twist minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),16
+Max-Max,1an2,1an2_CG_B_DC_9_B_DG_14,True,True,buckle rise tilt roll minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),13
+Max-Max,1an2,1an2_GC_B_DG_12_B_DC_11,True,True,shear stretch opening shift rise roll minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),16
+Max-Max,1an2,1an2_GC_B_DG_14_B_DC_9,True,True,buckle rise tilt minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),12
+Max-Max,1an2,1an2_TA_B_DT_13_B_DA_10,False,True,shear stretch stagger buckle opening c1c1_dist rise tilt roll minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) zeta(-1.0) zeta(0.0) zeta(1.0),18
+Max-Max,1an2,1an2_TA_B_DT_8_B_DA_15,False,False,stretch stagger rise tilt minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) zeta(-1.0) zeta(0.0) zeta(1.0),13
+Max-Myc,1nkp,1nkp_AT_F_DA_109_G_DT_312,True,True,shift twist minorgw(-2.0) minorgw(1.0) majorgw(-1.0) zeta(-1.0) zeta(0.0),7
+Max-Myc,1nkp,1nkp_CG_F_DC_108_G_DG_313,True,True,stagger buckle rise tilt roll minorgw(-2.0) minorgw(-1.0) majorgw(0.0) zeta(-1.0) zeta(0.0) zeta(1.0),11
+Max-Myc,1nkp,1nkp_CG_F_DC_110_G_DG_311,True,True,shift slide roll minorgw(0.0) minorgw(1.0) majorgw(-2.0) beta(1.0) zeta(-1.0) zeta(1.0),9
+Max-Myc,1nkp,1nkp_CG_F_DC_114_G_DG_307,False,True,opening c1c1_dist roll minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),13
+Max-Myc,1nkp,1nkp_GC_F_DG_111_G_DC_310,False,True,buckle shift minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(0.0) beta(1.0) zeta(0.0) zeta(1.0),9
+Max-Myc,1nkp,1nkp_GC_F_DG_113_G_DC_308,True,True,roll minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),11
+Max-Myc,1nkp,1nkp_TA_F_DT_112_G_DA_309,True,True,slide roll minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),12
+RelA,5u01,5u01_AT_E_DA_206_F_DT_221,True,True,shear stagger buckle propeller slide roll minorgw(1.0) majorgw(-1.0) majorgw(1.0) gamma(-1.0) gamma(0.0) gamma(1.0),12
+RelA,5u01,5u01_AT_E_DA_207_F_DT_220,False,True,shear stagger buckle propeller tilt minorgw(0.0) minorgw(1.0) majorgw(-2.0) majorgw(0.0) gamma(-1.0) gamma(0.0),11
+RelA,5u01,5u01_AT_E_DA_208_F_DT_219,False,False,stagger propeller slide roll minorgw(-1.0) minorgw(0.0) majorgw(-1.0) gamma(-1.0),8
+RelA,5u01,5u01_AT_E_DA_217_F_DT_210,False,True,shear stagger propeller slide roll minorgw(-2.0) minorgw(0.0) minorgw(1.0) majorgw(-1.0) gamma(-1.0) gamma(0.0) gamma(1.0),12
+RelA,5u01,5u01_AT_E_DA_218_F_DT_209,False,True,shear stagger buckle propeller opening c1c1_dist slide tilt minorgw(-1.0) minorgw(0.0) majorgw(-2.0) gamma(-1.0) gamma(0.0),13
+RelA,5u01,5u01_CG_E_DC_203_F_DG_224,False,True,stagger propeller opening c1c1_dist shift roll minorgw(0.0) majorgw(0.0) zeta(1.0),9
+RelA,5u01,5u01_CG_E_DC_211_F_DG_216,True,True,stretch tilt roll minorgw(0.0) minorgw(1.0) majorgw(-1.0) gamma(-1.0) gamma(0.0) gamma(1.0) zeta(1.0),10
+RelA,5u01,5u01_CG_E_DC_212_F_DG_215,True,True,stagger shift tilt roll minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(-2.0) gamma(-1.0) gamma(0.0) zeta(0.0) zeta(1.0),12
+RelA,5u01,5u01_CG_E_DC_213_F_DG_214,True,True,stagger minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) gamma(-1.0) zeta(-1.0) zeta(0.0) zeta(1.0),9
+RelA,5u01,5u01_CG_E_DC_222_F_DG_205,True,True,stagger shift minorgw(0.0) minorgw(1.0) majorgw(-1.0) majorgw(1.0) gamma(-1.0) gamma(0.0) gamma(1.0) zeta(1.0),10
+RelA,5u01,5u01_CG_E_DC_223_F_DG_204,True,True,stagger propeller opening shift roll minorgw(-1.0) minorgw(0.0) majorgw(-2.0) majorgw(0.0) gamma(-1.0) gamma(0.0) zeta(0.0),12
+RelA,5u01,5u01_GC_E_DG_204_F_DC_223,True,True,stagger opening tilt minorgw(-1.0) majorgw(-1.0) majorgw(1.0) gamma(1.0) zeta(0.0),8
+RelA,5u01,5u01_GC_E_DG_205_F_DC_222,True,True,stagger tilt roll minorgw(-2.0) majorgw(-2.0) majorgw(0.0) gamma(0.0) gamma(1.0) zeta(-1.0),9
+RelA,5u01,5u01_GC_E_DG_214_F_DC_213,True,True,stretch stagger opening shift tilt roll twist minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),14
+RelA,5u01,5u01_GC_E_DG_215_F_DC_212,True,True,stagger tilt minorgw(-2.0) minorgw(-1.0) minorgw(0.0) majorgw(1.0) gamma(1.0) zeta(-1.0) zeta(0.0),9
+RelA,5u01,5u01_GC_E_DG_216_F_DC_211,True,True,stagger shift slide roll minorgw(-2.0) minorgw(-1.0) minorgw(1.0) majorgw(0.0) gamma(0.0) gamma(1.0) zeta(-1.0),11
+RelA,5u01,5u01_GC_E_DG_224_F_DC_203,True,True,stagger propeller opening c1c1_dist shift minorgw(-2.0) minorgw(-1.0) majorgw(-1.0) gamma(-1.0) zeta(-1.0),10
+RelA,5u01,5u01_TA_E_DT_209_F_DA_218,False,False,stagger buckle propeller shift roll minorgw(-2.0) minorgw(-1.0) majorgw(-2.0) majorgw(1.0) gamma(1.0),10
+RelA,5u01,5u01_TA_E_DT_210_F_DA_217,False,True,stretch stagger buckle opening c1c1_dist slide tilt minorgw(-2.0) minorgw(1.0) majorgw(0.0) gamma(0.0) gamma(1.0),12
+RelA,5u01,5u01_TA_E_DT_219_F_DA_208,False,False,stagger propeller roll minorgw(-2.0) minorgw(-1.0) gamma(-1.0),6
+RelA,5u01,5u01_TA_E_DT_220_F_DA_207,False,True,stretch stagger buckle propeller opening shift rise tilt roll minorgw(-2.0) majorgw(1.0) gamma(1.0),12
+RelA,5u01,5u01_TA_E_DT_221_F_DA_206,True,True,stagger buckle opening c1c1_dist slide roll minorgw(1.0) majorgw(0.0) gamma(0.0) gamma(1.0),10
+Runx1,1hjb,1hjb_GC_G_DG_18_H_DC_10,True,True,shear stretch buckle c1c1_dist shift tilt minorgw(-2.0) minorgw(-1.0) minorgw(1.0) majorgw(-1.0) majorgw(0.0) zeta(1.0),12
+Runx1,1hjb,1hjb_GC_G_DG_20_H_DC_8,True,True,stagger propeller roll minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(-2.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),12
+Runx1,1hjb,1hjb_GC_G_DG_21_H_DC_7,True,True,stretch buckle c1c1_dist shift slide roll minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),16
+Runx1,1hjb,1hjb_TA_G_DT_17_H_DA_11,False,True,shear stretch opening c1c1_dist shift rise twist minorgw(-1.0) minorgw(0.0) majorgw(0.0) majorgw(1.0),11
+Runx1,1hjb,1hjb_TA_G_DT_19_H_DA_9,False,True,shear stretch stagger propeller minorgw(-2.0) minorgw(0.0) minorgw(1.0) majorgw(-2.0) majorgw(-1.0) beta(1.0) zeta(0.0) zeta(1.0),12
+Runx1,1hjb,1hjb_TA_G_DT_22_H_DA_6,False,True,opening c1c1_dist rise roll minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),14
+Runx1,1hjb,1hjb_TA_G_DT_23_H_DA_5,True,True,shear stagger opening c1c1_dist shift slide tilt minorgw(-2.0) minorgw(-1.0) minorgw(0.0) beta(-1.0) beta(0.0) zeta(-1.0) zeta(0.0),14
+TBP,1qne,1qne_AT_C_DA_204_D_DT_225,False,True,buckle propeller opening c1c1_dist shift tilt roll twist minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(1.0) beta(0.0) beta(1.0) zeta(0.0) zeta(1.0),16
+TBP,1qne,1qne_AT_C_DA_206_D_DT_223,True,True,stagger propeller opening c1c1_dist shift slide roll twist minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(-1.0) majorgw(0.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),20
+TBP,1qne,1qne_AT_C_DA_207_D_DT_222,True,True,buckle opening c1c1_dist slide tilt roll twist minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(-2.0) majorgw(-1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),19
+TBP,1qne,1qne_AT_C_DA_208_D_DT_221,False,True,buckle opening c1c1_dist slide roll twist minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(-2.0) majorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),18
+TBP,1qne,1qne_AT_C_DA_209_D_DT_220,False,True,buckle opening c1c1_dist slide rise roll twist minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(0.0) majorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),19
+TBP,1qne,1qne_CG_C_DC_202_D_DG_227,False,False,shear stretch c1c1_dist rise tilt minorgw(1.0),6
+TBP,1qne,1qne_GC_C_DG_210_D_DC_219,False,True,propeller c1c1_dist shift minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(-1.0) majorgw(0.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),15
+TBP,1qne,1qne_TA_C_DT_203_D_DA_226,False,True,stretch stagger opening c1c1_dist rise tilt roll twist minorgw(0.0) minorgw(1.0) beta(1.0) zeta(1.0),12
+TBP,1qne,1qne_TA_C_DT_205_D_DA_224,False,True,buckle c1c1_dist slide rise roll twist minorgw(-2.0) minorgw(-1.0) minorgw(0.0) minorgw(1.0) majorgw(0.0) majorgw(1.0) beta(-1.0) beta(0.0) beta(1.0) zeta(-1.0) zeta(0.0) zeta(1.0),18
+p53,3kz8,3kz8_AT_C_DA_15_C_DT_6,False,True,c1c1_dist minorgw(0.0) majorgw(-2.0) majorgw(0.0) beta(0.0) beta(1.0) gamma(-1.0),7
+p53,3kz8,3kz8_AT_C_DA_5_C_DT_16,False,True,c1c1_dist minorgw(0.0) majorgw(-2.0) majorgw(0.0) beta(0.0) beta(1.0) gamma(-1.0),7
+p53,3kz8,3kz8_CG_C_DC_10_C_DG_11,False,True,minorgw(-1.0) minorgw(0.0) minorgw(1.0) gamma(-1.0),4
+p53,3kz8,3kz8_CG_C_DC_14_C_DG_7,True,True,minorgw(1.0) majorgw(-1.0) majorgw(1.0) beta(1.0) gamma(-1.0) gamma(0.0),6
+p53,3kz8,3kz8_CG_C_DC_18_C_DG_3,True,True,majorgw(-1.0),1
+p53,3kz8,3kz8_CG_C_DC_19_C_DG_2,True,True,majorgw(-2.0),1
+p53,3kz8,3kz8_CG_C_DC_4_C_DG_17,True,True,minorgw(1.0) majorgw(-1.0) majorgw(1.0) beta(1.0) gamma(0.0),5
+p53,3kz8,3kz8_CG_C_DC_8_C_DG_13,True,True,minorgw(1.0) majorgw(-1.0) gamma(0.0) gamma(1.0),4
+p53,3kz8,3kz8_CG_C_DC_9_C_DG_12,True,True,minorgw(0.0) minorgw(1.0) majorgw(-2.0) gamma(-1.0) gamma(0.0),5
+p53,3kz8,3kz8_GC_C_DG_11_C_DC_10,False,True,minorgw(-2.0) minorgw(-1.0) minorgw(0.0),3
+p53,3kz8,3kz8_GC_C_DG_12_C_DC_9,True,True,minorgw(-2.0) minorgw(-1.0) majorgw(1.0) gamma(1.0),4
+p53,3kz8,3kz8_GC_C_DG_13_C_DC_8,True,True,minorgw(-2.0) majorgw(0.0) gamma(0.0) gamma(1.0),4
+p53,3kz8,3kz8_GC_C_DG_17_C_DC_4,True,True,minorgw(-2.0) majorgw(-2.0) majorgw(0.0) beta(-1.0),4
+p53,3kz8,3kz8_GC_C_DG_7_C_DC_14,True,True,minorgw(-2.0) majorgw(-2.0) majorgw(0.0) beta(-1.0) gamma(1.0),5
+p53,3kz8,3kz8_TA_C_DT_16_C_DA_5,False,True,c1c1_dist minorgw(-1.0) majorgw(-1.0) majorgw(1.0) beta(-1.0) beta(0.0),6
+p53,3kz8,3kz8_TA_C_DT_6_C_DA_15,False,True,c1c1_dist minorgw(-1.0) majorgw(-1.0) majorgw(1.0) beta(-1.0) beta(0.0),6

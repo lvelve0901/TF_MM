@@ -1,0 +1,111 @@
+bp_name,pdbid,method,mmtype,reso,pairid,notes,shear,C1C1_dist
+AA,1DMU,X-ray,Protein#DNA,2.2,1dmu_AA_F_DA_0_^_F_DA_0_^,Anti-Anti,0.0,11.107
+AA,1OH6,X-ray,Protein#DNA,2.4,1oh6_AA_E_DA_9_^_F_DA_22_^,Distorted Syn-Anti,2.031,13.239
+AA,1SVC,X-ray,Protein#DNA,2.6,1svc_AA_D_DA_10_^_D_DA_10_^,Anti-Anti,0.0,10.867
+AA,2A3V,X-ray,Protein#DNA,2.8,2a3v_AA_E_DA_33_^_F_DA_8_^,Anti-Anti,2.043,12.968
+AA,4IZZ,X-ray,Protein#DNA,2.5,4izz_AA_C_DA_0_^_D_DA_0_^,Anti-Anti,0.639,11.355
+AA,4J00,X-ray,Protein#DNA,3.0,4j00_AA_C_DA_13_^_D_DA_13_^,Anti-Anti,-0.933,11.806
+AA,4RB1,X-ray,Protein#DNA,2.75,4rb1_AA_D_DA_615_^_D_DA_615_^,Anti-Anti,0.0,10.524
+AA,5BMZ,X-ray,Protein#DNA,3.0,5bmz_AA_E_DA_0_^_F_DA_0_^,Anti-Anti,0.083,10.789
+AC,1D99,X-ray,DNA,2.5,1d99_AC_A_DA_4_^_B_DC_21_^,Wobble,-1.713,10.438
+AC,1D99,X-ray,DNA,2.5,1d99_AC_A_DC_9_^_B_DA_16_^,Wobble,2.166,10.192
+AC,1OH5,X-ray,Protein#DNA,2.9,1oh5_AC_E_DC_9_^_F_DA_22_^,Distorted syn-anti,0.225,11.863
+AC,3POV,X-ray,Protein#DNA,2.5,3pov_AC_C_DC_12_^_D_DA_29_^,Distorted syn-anti,-1.199,10.882
+AC,3TAP,X-ray,Protein#DNA,1.65,3tap_AC_B_DC_27_^_C_DA_6_^,Tautomer,0.768,10.305
+AC,3TAQ,X-ray,Protein#DNA,1.65,3taq_AC_B_DC_26_^_C_DA_7_^,Wobble,2.128,10.551
+AC,3TAR,X-ray,Protein#DNA,1.6,3tar_AC_B_DC_29_^_C_DA_9_^,Wobble,2.056,10.422
+AC,4RDM,X-ray,Protein#DNA,2.7,4rdm_AC_C_DA_6_^_D_DC_28_^,Tautomer,-0.548,10.494
+AC,5D9I,X-ray,Protein#DNA,1.7,5d9i_AC_X_DC_8_^_Y_DA_15_^,Single h-bond,-1.376,11.298
+AC,5FW3,X-ray,Protein#DNA#RNA,2.7,5fw3_AC_C_DC_4_^_D_DA_9_^,Tautomer?,0.572,10.531
+AC,1N1N,NMR,DNA,null,1n1n_AC_A_DC_5_^_B_DA_16_^,Wobble?,1.535,10.23
+AC,2MO7,NMR,DNA,null,2mo7_AC_A_DA_4_^_B_DC_21_^,Wobble?,-2.266,10.75
+AC,2MO7,NMR,DNA,null,2mo7_AC_A_DC_9_^_B_DA_16_^,Wobble?,2.279,10.759
+AG,111D,X-ray,DNA,2.25,111d_AG_A_DA_4_^_B_DG_21_^,G(syn).A(anti),0.235,11.006
+AG,111D,X-ray,DNA,2.25,111d_AG_A_DG_9_^_B_DA_16_^,G(syn).A(anti),-0.546,10.607
+AG,112D,X-ray,DNA,2.5,112d_AG_A_DG_4_^_B_DA_21_^,G(anti).A(syn),-0.124,10.809
+AG,112D,X-ray,DNA,2.5,112d_AG_A_DA_9_^_B_DG_16_^,G(anti).A(syn),-0.58,10.574
+AG,1DNM,X-ray,DNA,2.5,1dnm_AG_A_DA_4_^_B_DG_21_^,G(anti).A(syn),-0.187,11.386
+AG,1DNM,X-ray,DNA,2.5,1dnm_AG_A_DG_9_^_B_DA_16_^,G(anti).A(syn),0.306,11.459
+AG,4R22,X-ray,Protein#DNA,2.6,4r22_AG_G_DA_5_^_G_DG_15_^,G(anti).A(anti),0.42,11.872
+AG,4R22,X-ray,Protein#DNA,2.6,4r22_AG_G_DG_15_^_G_DA_5_^,G(anti).A(anti),-0.42,11.872
+AG,4R24,X-ray,Protein#DNA,2.25,4r24_AG_G_DA_5_^_G_DG_15_^,G(anti).A(anti),0.293,11.647
+AG,4R24,X-ray,Protein#DNA,2.25,4r24_AG_G_DG_15_^_G_DA_5_^,G(anti).A(anti),-0.293,11.647
+AG,5DBB,X-ray,Protein#DNA,2.25,5dbb_AG_T_DA_13_^_P_DG_4_^,G(anti).A(syn),0.314,10.79
+AG,1ONM,NMR,DNA,null,1onm_AG_A_DA_6_^_B_DG_17_^,G(anti).A(anti),-0.323,12.529
+CC,2NL8,X-ray,Protein#DNA,2.3,2nl8_CC_W_DC_19_^_W_DC_19_^,water mediated,0.0,10.76
+CC,3ZVN,X-ray,Protein#DNA,2.15,3zvn_CC_F_DC_3_^_H_DC_3_^,Wobble,1.62,8.594
+CC,2RVP,NMR,DNA,null,2rvp_CC_1_DC_8_^_2_DC_23_^,stacked in. metal. ,0.116,10.391
+CT,5CNQ,X-ray,Protein#DNA,2.6,5cnq_CT_R_DC_4_^_H_DT_27_^,non h-bonded WC conformation,0.028,9.312
+CT,5HP4,X-ray,Protein#DNA,1.86,5hp4_CT_X_DC_4_^_X_DT_7_^,Constricted 2 hbond conf,0.342,8.421
+CT,5HP4,X-ray,Protein#DNA,1.86,5hp4_CT_X_DT_7_^_X_DC_4_^,Constricted 2 hbond conf,-0.342,8.421
+CT,5WSQ,X-ray,DNA,1.05,5wsq_CT_A_DC_3_^_B_DT_6_^,non hbonded inverse wobble. Mercury.,-1.907,9.864
+CT,5WSQ,X-ray,DNA,1.05,5wsq_CT_A_DT_6_^_B_DC_3_^,non hbonded inverse wobble. Mercury.,1.97,9.972
+CT,1FKY,NMR,DNA,null,1fky_CT_A_DC_6_^_B_DT_17_^,Constricted 2 hbond & single h-bond,0.252,8.882
+GG,1D80,X-ray,DNA,2.2,1d80_GG_A_DG_4_^_B_DG_21_^,G(syn).G(anti),0.717,10.737
+GG,1D80,X-ray,DNA,2.2,1d80_GG_A_DG_9_^_B_DG_16_^,G(syn).G(anti),-0.868,11.23
+GG,1OH7,X-ray,Protein#DNA,2.5,1oh7_GG_E_DG_9_^_F_DG_22_^,Distorted G(syn).G(anti),2.303,13.209
+GG,3DPG,X-ray,Protein#DNA,1.91,3dpg_GG_C_DG_6_^_D_DG_13_^,G(syn).G(anti),-0.769,10.994
+GG,3DPG,X-ray,Protein#DNA,1.91,3dpg_GG_C_DG_13_^_D_DG_6_^,G(syn).G(anti),1.549,11.122
+GG,3LSP,X-ray,Protein#DNA,2.66,3lsp_GG_B_DG_10_^_B_DG_21_^,G(anti).G(anti),-0.424,10.744
+GG,3LSP,X-ray,Protein#DNA,2.66,3lsp_GG_B_DG_21_^_B_DG_10_^,G(anti).G(anti) Weird,0.424,10.744
+GG,4XZF,X-ray,Protein#DNA,1.38,4xzf_GG_B_DG_7_^_B_DG_7_^,G(syn).G(anti) & G(anti).G(syn),0.0,11.061
+GG,5DBC,X-ray,Protein#DNA,2.4,5dbc_GG_T_DG_13_^_P_DG_4_^,G(syn).G(anti),-1.702,10.847
+GT,113D,X-ray,DNA,2.5,113d_GT_A_DG_4_^_B_DT_21_^,Wobble,-2.486,10.367
+GT,113D,X-ray,DNA,2.5,113d_GT_A_DT_9_^_B_DG_16_^,Wobble,2.717,10.274
+GT,1D92,X-ray,DNA,2.25,1d92_GT_A_DG_3_^_B_DT_14_^,Wobble,-2.581,10.451
+GT,1D92,X-ray,DNA,2.25,1d92_GT_A_DT_6_^_B_DG_11_^,Wobble,2.138,10.331
+GT,1E3M,X-ray,Protein#DNA,2.2,1e3m_GT_E_DG_9_^_F_DT_22_^,Distorted single h-bond conformation,4.649,12.456
+GT,1NG9,X-ray,Protein#DNA,2.6,1ng9_GT_E_DG_9_^_F_DT_22_^,Distorted single h-bond conformation,4.956,12.614
+GT,1NK9,X-ray,Protein#DNA,1.9,1nk9_GT_B_DG_27_^_C_DT_6_^,Inverse wobble,1.906,10.922
+GT,1NKB,X-ray,Protein#DNA,2.0,1nkb_GT_B_DG_26_^_C_DT_7_^,Inverse wobble,2.082,11.203
+GT,1NKC,X-ray,Protein#DNA,1.8,1nkc_GT_B_DG_11_^_C_DT_32_^,Wobble,-2.171,10.469
+GT,1W7A,X-ray,Protein#DNA,2.27,1w7a_GT_E_DG_9_^_F_DT_22_^,Distorted single h-bond conformation,4.78,12.415
+GT,1WB9,X-ray,Protein#DNA,2.1,1wb9_GT_E_DG_9_^_F_DT_22_^,Distorted single h-bond conformation,4.854,12.566
+GT,1WBB,X-ray,Protein#DNA,2.5,1wbb_GT_E_DG_9_^_F_DT_22_^,Distorted single h-bond conformation,5.015,12.499
+GT,1WBD,X-ray,Protein#DNA,2.4,1wbd_GT_E_DG_9_^_F_DT_22_^,Distorted single h-bond conformation,4.932,12.653
+GT,2O8B,X-ray,Protein#DNA,2.75,2o8b_GT_E_DG_8_^_F_DT_23_^,Distorted single h-bond conformation,5.206,12.104
+GT,2XM3,X-ray,Protein#DNA,2.3,2xm3_GT_K_DG_20_^_K_DT_33_^,Single h-bond wobble with water,-2.661,9.746
+GT,2XM3,X-ray,Protein#DNA,2.3,2xm3_GT_M_DG_20_^_M_DT_33_^,Single h-bond wobble with water,-3.058,9.742
+GT,2XMA,X-ray,Protein#DNA,2.3,2xma_GT_C_DG_20_^_C_DT_33_^,Single h-bond wobble with water,-2.392,9.751
+GT,2XMA,X-ray,Protein#DNA,2.3,2xma_GT_D_DG_20_^_D_DT_33_^,Single h-bond wobble,-2.388,9.757
+GT,2XMA,X-ray,Protein#DNA,2.3,2xma_GT_G_DG_20_^_G_DT_33_^,Single h-bond wobble,-2.884,9.765
+GT,2XMA,X-ray,Protein#DNA,2.3,2xma_GT_H_DG_20_^_H_DT_33_^,Single h-bond wobble,-2.896,9.765
+GT,2XO6,X-ray,Protein#DNA,1.9,2xo6_GT_B_DG_20_^_B_DT_33_^,Single h-bond wobble with water,-2.705,9.818
+GT,2XO6,X-ray,Protein#DNA,1.9,2xo6_GT_E_DG_20_^_E_DT_33_^,Single h-bond wobble with water,-2.88,9.724
+GT,2XQC,X-ray,Protein#DNA,1.9,2xqc_GT_B_DG_20_^_B_DT_33_^,Single h-bond wobble with water,-2.686,9.695
+GT,2XQC,X-ray,Protein#DNA,1.9,2xqc_GT_E_DG_20_^_E_DT_33_^,Single h-bond wobble with water,-2.758,9.741
+GT,3H25,X-ray,Protein#DNA,2.7,3h25_GT_C_DT_11_^_C_DG_23_^,Wobble,2.484,10.39
+GT,3JXY,X-ray,Protein#DNA,1.5,3jxy_GT_B_DG_7_^_C_DT_6_^,Super weird distorted conformation,7.505,11.212
+GT,3K0S,X-ray,Protein#DNA,2.2,3k0s_GT_E_DG_9_^_F_DT_22_^,Distorted single h-bond conformation,5.009,12.606
+GT,3VXV,X-ray,Protein#DNA,2.0,3vxv_GT_B_DG_10_^_C_DT_4_^,Wobble,-2.325,10.647
+GT,3VYQ,X-ray,Protein#DNA,2.53,3vyq_GT_B_DG_7_^_C_DT_5_^,Wobble,-2.206,10.717
+GT,4FJ8,X-ray,Protein#DNA,2.19,4fj8_GT_T_DT_9_^_P_DG_111_^,Inverse wobble,-2.031,11.242
+GT,4M3U,X-ray,Protein#DNA,2.07,4m3u_GT_T_DG_7_^_P_DT_113_^,Wobble,-1.945,10.296
+GT,4M3W,X-ray,Protein#DNA,2.1,4m3w_GT_T_DG_8_^_P_DT_112_^,Wobble,-2.109,10.312
+GT,4M3X,X-ray,Protein#DNA,2.2,4m3x_GT_T_DG_9_^_P_DT_111_^,Wobble,-1.847,10.512
+GT,4M41,X-ray,Protein#DNA,2.15,4m41_GT_T_DT_7_^_P_DG_113_^,Tautomer,-0.091,10.745
+GT,4M42,X-ray,Protein#DNA,2.04,4m42_GT_T_DT_8_^_P_DG_112_^,Wobble,2.145,10.575
+GT,4M45,X-ray,Protein#DNA,1.89,4m45_GT_T_DT_9_^_P_DG_111_^,Inverse wobble,-2.252,11.37
+GT,4OSQ,X-ray,Protein#DNA,2.26,4osq_GT_I_DG_7_^_J_DT_-7_^,Tautomer,-0.278,10.753
+GT,4OSR,X-ray,Protein#DNA,1.94,4osr_GT_I_DG_7_^_J_DT_-7_^,Tautomer,0.205,10.814
+GT,5D9I,X-ray,Protein#DNA,1.7,5d9i_GT_X_DT_14_^_Y_DG_9_^,Wobble,2.177,10.486
+GT,5DBA,X-ray,Protein#DNA,1.97,5dba_GT_T_DT_13_^_P_DG_4_^,Wobble,2.318,10.344
+GT,1BJD,NMR,DNA,null,1bjd_GT_A_DG_4_^_B_DT_9_^,Wobble,-2.59,10.318
+GT,1BJD,NMR,DNA,null,1bjd_GT_A_DT_9_^_B_DG_4_^,Wobble,2.591,10.319
+GT,1KKW,NMR,DNA,null,1kkw_GT_A_DT_4_^_B_DG_7_^,Bifurcated,1.171,10.807
+GT,1KKW,NMR,DNA,null,1kkw_GT_A_DG_7_^_B_DT_4_^,Bifurcated,-1.169,10.81
+TT,1MNV,X-ray,Protein#DNA,2.6,1mnv_TT_A_DT_5_^_B_DT_14_^,Wobble,2.252,8.365
+TT,1P51,X-ray,Protein#DNA,2.5,1p51_TT_E_DT_11_^_F_DT_11_^,Wobble,-2.357,8.268
+TT,1P71,X-ray,Protein#DNA,1.9,1p71_TT_C_DT_11_^_D_DT_11_^,Wobble,2.264,8.413
+TT,1P78,X-ray,Protein#DNA,2.25,1p78_TT_C_DT_11_^_D_DT_11_^,Wobble,2.117,8.599
+TT,5GSK,X-ray,DNA,1.05,5gsk_TT_A_DT_3_^_A_DT_6_^,Stacked in WC. Non hydrogen bonded. Mercury. ,0.081,10.235
+TT,5GSK,X-ray,DNA,1.05,5gsk_TT_A_DT_6_^_A_DT_3_^,Stacked in WC. Non hydrogen bonded. Mercury. ,-0.081,10.235
+TT,5WSP,X-ray,DNA,1.5,5wsp_TT_A_DT_3_^_A_DT_6_^,Wobble,2.388,8.978
+TT,5WSP,X-ray,DNA,1.5,5wsp_TT_A_DT_6_^_A_DT_3_^,Wobble,-2.388,8.978
+TT,5WSR,X-ray,DNA,1.5,5wsr_TT_A_DT_3_^_A_DT_6_^,Stacked in wobble. Non hydrogen bonded. Mercury. ,1.584,9.569
+TT,5WSR,X-ray,DNA,1.5,5wsr_TT_A_DT_6_^_A_DT_3_^,Stacked in wobble. Non hydrogen bonded. Mercury. ,-1.584,9.569
+TT,5WSS,X-ray,DNA,1.45,5wss_TT_A_DT_3_^_A_DT_6_^,Stacked in WC. Non hydrogen bonded & wobble. Mercury. ,-0.045,10.077
+TT,5WSS,X-ray,DNA,1.45,5wss_TT_A_DT_6_^_A_DT_3_^,Stacked in WC. Non hydrogen bonded & wobble. Mercury. ,0.045,10.077
+TT,1DSD,NMR,Protein#DNA,null,1dsd_TT_A_DT_3_^_B_DT_14_^,Wobble,2.898,8.807
+TT,1DSD,NMR,Protein#DNA,null,1dsd_TT_A_DT_6_^_B_DT_11_^,Wobble,-2.51,8.727
+TT,2LL9,NMR,DNA,null,2ll9_TT_A_DT_6_^_B_DT_17_^,Wobble,-2.842,9.673

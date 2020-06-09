@@ -1,0 +1,18 @@
+
+Drag PDB file into ./RawPdb
+Update the ./Data/raw_pdbinfo.csv
+
+python extract_helix_info.py
+python pdb_to_helice.py
+
+copy the corresponding helix structure from ./Helice_refine to ./Helice_update
+pay attention to add missing coordinate in Helice_update, you need to directly extract the helix coordinate from original PDB and copy to Helice_update
+
+python process_abg.py
+python process_bseq.py
+python process_localparams.py
+python process_contact.py
+python process_snap.py
+python process_DNAproDB.py
+
+

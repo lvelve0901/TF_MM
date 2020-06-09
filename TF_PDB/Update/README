@@ -1,0 +1,71 @@
+
+PDB Issues
+
+
+(0) PDB only deposit one assymetric unit and more than one models in biological assembly file
+1AN2 Max
+2ADY p53
+3EXJ p53
+3EXL p53
+3G6Q GR
+3G9I GR
+3IGK p53
+3IGL p53
+3KZ8 p53
+3VEA Matp
+3VEB Matp
+4D8J Matp
+4E68 Stat3
+4IBV p53
+4IBW p53
+4R22 TnrA 
+4R24 TnrA
+4YG4 HipB
+4Z58 HipB
+4Z59 HipB
+4Z5H HipB
+5BUA p53
+5EYO Max
+5MCT p53
+5MCU p53
+5MCV p53
+5MCW p53
+5MF7 p53
+5MG7 p53
+5ZK1 Creb
+
+(1) Helice sequence contains mismatch due to alternative coordinate
+5MF7 p53
+5MG7 p53
+
+(2) The helix structure but has > 1 bp gap(s)
+We artificially extract the entire helix coordinate to ./Helice_update folder
+4D8J MatP
+4R24 TnrA
+4YG1 HipB
+4YG7 HipB
+4Z5H HipB
+5LGY p53
+6CG8 GapR
+XAC1 TBP
+
+(3) More than one helices detected due to gap
+4YG7 HipB 
+5K98 HipA-HipB
+
+(4) More than one helices detected due to more than one assymmetric unit in one model
+1DUX Elk1 
+1K79 Ets1
+1K7A Ets1
+3RI4 Ets1
+6NJQ TBP
+XAC1 TBP
+XCCA TBP
+XCCB TBP
+
+(5) More than one helices detected due to multiple models
+3VEA MatP
+3VEB MatP
+4D8J MatP
+
+

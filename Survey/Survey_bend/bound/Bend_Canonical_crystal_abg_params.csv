@@ -1,0 +1,6 @@
+param,param_mean,param_max,param_min,param_sigma
+beta_h_b,14.13,86.4,0.1,8.61
+gamma_h_b,-2.21,179.9,-180.0,88.31
+zeta_h_b,31.48,56.3,-18.1,7.07
+rmsd_pu_b,0.73,1.99,0.18,0.21
+rmsd_py_b,0.73,1.99,0.19,0.2

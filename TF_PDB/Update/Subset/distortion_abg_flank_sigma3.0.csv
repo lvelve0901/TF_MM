@@ -1,0 +1,17 @@
+tf,sequence_star,resi,flank,pdbid,pairid,isHbond,isVdw,param,value
+TBP,ACTATA*AAAAGTTC,5,-1,1qne,1qne_AT_C_DA_206_D_DT_223,True,True,beta_h_b,84.600
+TBP,ACTATA*AAAAGTTC,5,0,1qne,1qne_AT_C_DA_206_D_DT_223,True,True,beta_h_b,83.500
+TBP,ACTATA*AAAAGTTC,5,1,1qne,1qne_AT_C_DA_206_D_DT_223,True,True,beta_h_b,84.700
+TBP,ACTATAAAAA*GTTC,8,-1,1qne,1qne_AT_C_DA_209_D_DT_220,False,True,beta_h_b,81.400
+TBP,ACTATAAAAA*GTTC,8,0,1qne,1qne_AT_C_DA_209_D_DT_220,False,True,beta_h_b,71.000
+TBP,ACTATAAAAA*GTTC,8,1,1qne,1qne_AT_C_DA_209_D_DT_220,False,True,beta_h_b,55.500
+TBP,ACTATAAAAAG*TTC,9,-1,1qne,1qne_GC_C_DG_210_D_DC_219,False,True,beta_h_b,71.000
+TBP,ACTATAAAAAG*TTC,9,0,1qne,1qne_GC_C_DG_210_D_DC_219,False,True,beta_h_b,55.500
+TBP,ACTATA*AAAAGTTC,5,-1,1qne,1qne_AT_C_DA_206_D_DT_223,True,True,zeta_h_b,-6.200
+TBP,ACTATA*AAAAGTTC,5,0,1qne,1qne_AT_C_DA_206_D_DT_223,True,True,zeta_h_b,-14.100
+TBP,ACTATA*AAAAGTTC,5,1,1qne,1qne_AT_C_DA_206_D_DT_223,True,True,zeta_h_b,-9.800
+TBP,ACTATAAAAA*GTTC,8,-1,1qne,1qne_AT_C_DA_209_D_DT_220,False,True,zeta_h_b,-0.900
+TBP,ACTATAAAAA*GTTC,8,0,1qne,1qne_AT_C_DA_209_D_DT_220,False,True,zeta_h_b,8.300
+TBP,ACTATAAAAAG*TTC,9,-1,1qne,1qne_GC_C_DG_210_D_DC_219,False,True,zeta_h_b,8.300
+CTCF,GCAGCGC*CCTCTACTGGCAGC,5,0,5t00,5t00_CG_B_DC_6_C_DG_12,True,True,zeta_h_b,16.100
+CTCF,GCAGCGCC*CTCTACTGGCAGC,6,-1,5t00,5t00_CG_B_DC_7_C_DG_11,True,True,zeta_h_b,16.100

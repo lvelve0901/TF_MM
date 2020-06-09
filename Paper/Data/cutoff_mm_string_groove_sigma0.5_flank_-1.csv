@@ -1,0 +1,11 @@
+mismatch,minorgw,majorgw
+GT,Pos,0
+AC,Pos,0
+CT,Neg,0
+TT,Neg,0
+CC,0,Neg
+AA,Pos,0
+GA,Pos,0
+GA*syn,Neg,0
+G*Gsyn,0,0
+GG*syn,0,0
