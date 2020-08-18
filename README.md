@@ -1,0 +1,19 @@
+###This is the data and Python script package of structural analysis for paper:
+###Akek A. et al DNA mismatches reveal conformational penalties in protein-DNA recognition (2018) Nature
+
+####By Honglue Shi
+####contact: honglue.shi@duke.edu
+
+####Survey folder
+#####This is the folder of the PDB survey of Watson-Crick and mismatched base pairs, the data base was updated on 08/16/2017
+
+####TF_PDB folder
+#####This is the folder of the structural analysis of all TF used in this study as well as the newly determined TBP-DNA structure in this study
+
+####MM_free folder
+#####This is the folder of scripts of the structural analysis of unbound mismatch by using MD simulation to obtain an cutoff of structural distortions by mismatch for the high-throughput structural analysis used in this study
+
+####Paper folder
+#####This is the folder containing all the organized raw data, Python scripts and plots used for this paper.
+
+
