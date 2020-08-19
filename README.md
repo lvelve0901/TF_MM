@@ -1,6 +1,6 @@
 This is the data and Python script package of structural analysis for paper:
 
-Akek A. et al DNA mismatches reveal conformational penalties in protein-DNA recognition (2018) Nature
+Akek A. et al DNA mismatches reveal conformational penalties in protein-DNA recognition (2020) Nature
 
 By Honglue Shi
 contact: honglue.shi@duke.edu
